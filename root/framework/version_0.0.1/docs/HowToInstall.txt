@@ -1,0 +1,39 @@
+Steps to Install The Framework.
+1. Checkout the latest framework code.
+2. Locate the zipped sandbox file at <checkout_root>/docs folder.
+3. Unzip file to a location. We will use 'C:/sandbox_app' as the location of our application.
+4. Copy the files at <checkout_root>/code to 'C:/sandbox_app/lib/framework'. You can use other directory as the framework directory
+but you need to change the framework location in 'C:/sandbox_app/index.php'.
+5. Configure the web server. Please see below for a sample server configuration for apache.
+	<VirtualHost *:80>	
+		DocumentRoot "C:/sample_app"
+		ServerName www.sample.com.local  # Sample server name
+		DirectoryIndex index.php
+		
+		<Directory "C:/sample_app">
+			AllowOverride All
+			Allow from All
+		</Directory>
+	</VirtualHost>
+6. Activate rewrite module in httpd.conf by removing the hash sign in line:
+	LoadModule rewrite_module modules/mod_rewrite.so
+7. There are two ways to apply url rewriting in your application. It depends whether you can edit the server configuration or not.
+For users that can edit the server configuration, add the line below in your server configuration after the line you add in step 5.
+	<Directory "C:/sample_app">
+		RewriteEngine On
+		RewriteCond %{REQUEST_URI} \..+$
+		RewriteCond %{REQUEST_URI} !\.html$
+		RewriteRule .* - [L]
+		RewriteRule ^(.*)$ index.php [QSA,L]
+	</Directory>
+For users that cannot edit the server configuration create a file and name it as '.htaccess'.
+Add the line in '.htaccess':
+	RewriteEngine On
+	RewriteCond %{REQUEST_URI} \..+$
+	RewriteCond %{REQUEST_URI} !\.html$
+	RewriteRule .* - [L]
+	RewriteRule ^(.*)$ index.php [QSA,L]
+The first method is recommended than the second method because '.htaccess' can make your website slower.
+8. Restart web server and open http://www.sample.com.local to view the default application.
+9. Happy coding...
+

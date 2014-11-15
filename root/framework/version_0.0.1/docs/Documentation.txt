@@ -1,0 +1,25 @@
+CcFramework follows the MVC paradigm.
+In this framework the controller php file can be found in apps/<app name>/module/<module name>
+The related view of the module can be found in apps/<app name>/module/<module name>/template
+The models are found in apps/<app name>/model
+
+Here is the file structure for a typical CcFramework project.
+	|-> apps
+		|-> <sample app name>
+			|-> config
+			|-> data
+			|-> layout
+			|-> lib
+			|-> model
+			|-> module
+				|-> <sample module>
+					|-> template
+						|-> <sample template>
+					|-> <sample module>Controller.php
+	|-> lib
+		|-> framework
+	|-> web
+		|-> css
+		|-> js
+	|-> index.php
+ 

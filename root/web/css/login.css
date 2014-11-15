@@ -1,0 +1,30 @@
+body {
+	padding-top: 70px;
+	padding-bottom: 40px;
+	background: #eee;
+}
+
+.main-content {
+	margin: 40px auto 5px;
+	width: 380px;
+}
+
+.login-title {
+	font-weight: bold;
+	font-size: 34px;
+	text-align: center;
+	margin-bottom: 16px;
+}
+
+.login-form {
+	width: 380px;
+	background: #fff;
+	padding: 20px 39px 19px;
+	-webkit-border-radius: 8px;
+	-moz-border-radius: 8px;
+	border-radius: 8px;
+	border: 1px solid #aaa;
+	-moz-box-shadow: 0 0 6px #999;
+	-webkit-box-shadow: 0 0 6px #999;
+	box-shadow: 0 0 6px #999;
+}

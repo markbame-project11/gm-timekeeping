@@ -1,0 +1,894 @@
+[Tue Oct 28 14:35:19 2014] [notice] FastCGI: process manager initialized (pid 1108)
+[Tue Oct 28 14:35:20 2014] [notice] Digest: generating secret for digest authentication ...
+[Tue Oct 28 14:35:20 2014] [notice] Digest: done
+[Tue Oct 28 14:35:20 2014] [notice] Apache/2.2.29 (Unix) mod_fastcgi/2.4.6 mod_wsgi/3.4 Python/2.7.8 PHP/5.6.2 mod_ssl/2.2.29 OpenSSL/0.9.8y DAV/2 mod_perl/2.0.8 Perl/v5.20.0 configured -- resuming normal operations
+[Tue Oct 28 14:35:24 2014] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/docs-assets, referer: http://localhost:8888/MAMP/?language=English
+[Tue Oct 28 15:04:34 2014] [error] [client ::1] script '/Applications/MAMP/bin/phpMyAdmin/main.php' not found or unable to stat, referer: http://localhost:8888/phpMyAdmin/?lang=en
+[Tue Oct 28 15:04:36 2014] [error] [client ::1] script '/Applications/MAMP/bin/phpMyAdmin/main.php' not found or unable to stat, referer: http://localhost:8888/phpMyAdmin/?lang=en
+[Tue Oct 28 15:04:37 2014] [error] [client ::1] script '/Applications/MAMP/bin/phpMyAdmin/main.php' not found or unable to stat, referer: http://localhost:8888/phpMyAdmin/?lang=en
+[Tue Oct 28 15:07:44 2014] [error] [client ::1] client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
+[Tue Oct 28 15:07:45 2014] [error] [client ::1] client denied by server configuration: /Applications/MAMP/htdocs/root/.DS_Store
+[Tue Oct 28 15:07:54 2014] [error] [client ::1] client denied by server configuration: /Applications/MAMP/htdocs/root/config/.DS_Store, referer: http://localhost:8888/root/
+[Tue Oct 28 15:11:51 2014] [notice] caught SIGTERM, shutting down
+[Tue Oct 28 15:11:58 2014] [notice] FastCGI: process manager initialized (pid 1882)
+[Tue Oct 28 15:11:58 2014] [notice] Digest: generating secret for digest authentication ...
+[Tue Oct 28 15:11:58 2014] [notice] Digest: done
+[Tue Oct 28 15:11:58 2014] [notice] Apache/2.2.29 (Unix) mod_fastcgi/2.4.6 mod_wsgi/3.4 Python/2.7.8 PHP/5.6.2 mod_ssl/2.2.29 OpenSSL/0.9.8y DAV/2 mod_perl/2.0.8 Perl/v5.20.0 configured -- resuming normal operations
+[Tue Oct 28 15:12:21 2014] [error] [client ::1] File does not exist: /Applications/MAMP/bin/mamp/root
+[Tue Oct 28 15:12:28 2014] [error] [client ::1] client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store, referer: http://localhost:8888/MAMP/
+[Tue Oct 28 15:12:30 2014] [error] [client ::1] client denied by server configuration: /Applications/MAMP/htdocs/root/.DS_Store, referer: http://localhost:8888/
+[Tue Oct 28 15:12:54 2014] [error] [client ::1] client denied by server configuration: /Applications/MAMP/htdocs/root/.DS_Store, referer: http://localhost:8888/
+[Tue Oct 28 15:13:57 2014] [error] [client ::1] client denied by server configuration: /Applications/MAMP/htdocs/root/.DS_Store
+[Tue Oct 28 15:13:57 2014] [error] [client ::1] client denied by server configuration: /Applications/MAMP/htdocs/root/.DS_Store
+[Tue Oct 28 15:18:21 2014] [error] [client ::1] client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store, referer: http://localhost:8888/MAMP/index.php?language=English&page=phpinfo
+[Tue Oct 28 15:18:24 2014] [error] [client ::1] client denied by server configuration: /Applications/MAMP/htdocs/root/.DS_Store, referer: http://localhost:8888/
+[Tue Oct 28 15:23:18 2014] [error] [client ::1] client denied by server configuration: /Applications/MAMP/htdocs/root/.DS_Store, referer: http://localhost:8888/
+[Tue Oct 28 15:23:23 2014] [error] [client ::1] client denied by server configuration: /Applications/MAMP/htdocs/root/apps/.DS_Store, referer: http://localhost:8888/root/
+[Tue Oct 28 15:34:03 2014] [notice] caught SIGTERM, shutting down
+(13)Permission denied: httpd: could not open error log file /private/var/log/apache2/www.payroll.com.local-error_log.
+Unable to open logs
+(13)Permission denied: httpd: could not open error log file /private/var/log/apache2/www.payroll.com.local-error_log.
+Unable to open logs
+(13)Permission denied: httpd: could not open error log file /private/var/log/apache2/www.payroll.com.local-error_log.
+Unable to open logs
+[Tue Oct 28 15:44:11 2014] [notice] FastCGI: process manager initialized (pid 3825)
+[Tue Oct 28 15:44:11 2014] [notice] Digest: generating secret for digest authentication ...
+[Tue Oct 28 15:44:11 2014] [notice] Digest: done
+[Tue Oct 28 15:44:11 2014] [notice] Apache/2.2.29 (Unix) mod_fastcgi/2.4.6 mod_wsgi/3.4 Python/2.7.8 PHP/5.6.2 mod_ssl/2.2.29 OpenSSL/0.9.8y DAV/2 mod_perl/2.0.8 Perl/v5.20.0 configured -- resuming normal operations
+[Tue Oct 28 15:46:08 2014] [notice] caught SIGTERM, shutting down
+[Tue Oct 28 15:46:14 2014] [notice] FastCGI: process manager initialized (pid 4049)
+[Tue Oct 28 15:46:14 2014] [notice] Digest: generating secret for digest authentication ...
+[Tue Oct 28 15:46:14 2014] [notice] Digest: done
+[Tue Oct 28 15:46:14 2014] [notice] Apache/2.2.29 (Unix) mod_fastcgi/2.4.6 mod_wsgi/3.4 Python/2.7.8 PHP/5.6.2 mod_ssl/2.2.29 OpenSSL/0.9.8y DAV/2 mod_perl/2.0.8 Perl/v5.20.0 configured -- resuming normal operations
+[Tue Oct 28 15:47:36 2014] [error] [client ::1] client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store, referer: http://localhost:8888/MAMP/?language=English
+[Tue Oct 28 15:53:54 2014] [notice] caught SIGTERM, shutting down
+[Tue Oct 28 15:54:04 2014] [notice] FastCGI: process manager initialized (pid 4364)
+[Tue Oct 28 15:54:04 2014] [notice] Digest: generating secret for digest authentication ...
+[Tue Oct 28 15:54:04 2014] [notice] Digest: done
+[Tue Oct 28 15:54:04 2014] [notice] Apache/2.2.29 (Unix) mod_fastcgi/2.4.6 mod_wsgi/3.4 Python/2.7.8 PHP/5.6.2 mod_ssl/2.2.29 OpenSSL/0.9.8y DAV/2 mod_perl/2.0.8 Perl/v5.20.0 configured -- resuming normal operations
+[Tue Oct 28 15:56:07 2014] [notice] caught SIGTERM, shutting down
+[Tue Oct 28 15:56:13 2014] [notice] FastCGI: process manager initialized (pid 4605)
+[Tue Oct 28 15:56:13 2014] [notice] Digest: generating secret for digest authentication ...
+[Tue Oct 28 15:56:13 2014] [notice] Digest: done
+[Tue Oct 28 15:56:13 2014] [notice] Apache/2.2.29 (Unix) mod_fastcgi/2.4.6 mod_wsgi/3.4 Python/2.7.8 PHP/5.6.2 mod_ssl/2.2.29 OpenSSL/0.9.8y DAV/2 mod_perl/2.0.8 Perl/v5.20.0 configured -- resuming normal operations
+[Tue Oct 28 15:56:51 2014] [error] [client ::1] script '/Applications/MAMP/bin/phpMyAdmin/main.php' not found or unable to stat, referer: http://localhost/phpMyAdmin/db_structure.php?db=payrolldb&table=&server=1&target=&token=279fefb9f591125b3f3401354b8e3da4
+Oct 28 16:04:23 Admins-iMac-4.local myScriptLog[4630] <Warning>: The field [is_employee] is not a valid table field.
+Oct 28 16:04:30 Admins-iMac-4.local myScriptLog[4630] <Warning>: The field [is_employee] is not a valid table field.
+Oct 28 16:04:36 Admins-iMac-4.local myScriptLog[4630] <Warning>: The field [is_employee] is not a valid table field.
+Oct 28 16:06:10 Admins-iMac-4.local myScriptLog[4771] <Warning>: The field [is_employee] is not a valid table field.
+Oct 28 16:06:16 Admins-iMac-4.local myScriptLog[4770] <Warning>: The field [is_employee] is not a valid table field.
+Oct 28 16:06:42 Admins-iMac-4.local myScriptLog[4610] <Warning>: The field [is_employee] is not a valid table field.
+[Tue Oct 28 16:13:18 2014] [error] [client 127.0.0.1] File does not exist: /Applications/MAMP/htdocs/root/web/uploads/payroll/2014-09-30_005112_payroll.xls, referer: http://www.payroll.com.local/admin.php/payroll
+Oct 28 16:13:52 Admins-iMac-4.local myScriptLog[4608] <Warning>: The field [is_employee] is not a valid table field.
+Oct 28 16:14:49 Admins-iMac-4.local myScriptLog[4770] <Warning>: The field [is_employee] is not a valid table field.
+Oct 28 16:15:05 Admins-iMac-4.local myScriptLog[4771] <Warning>: The field [is_employee] is not a valid table field.
+Oct 28 16:15:14 Admins-iMac-4.local myScriptLog[4607] <Warning>: The field [is_employee] is not a valid table field.
+Oct 28 16:16:05 Admins-iMac-4.local myScriptLog[4609] <Warning>: The field [is_employee] is not a valid table field.
+Oct 28 16:16:36 Admins-iMac-4.local myScriptLog[4608] <Warning>: The field [is_employee] is not a valid table field.
+Oct 28 16:16:39 Admins-iMac-4.local myScriptLog[4608] <Warning>: The field [is_employee] is not a valid table field.
+Oct 28 16:18:40 Admins-iMac-4.local myScriptLog[4607] <Warning>: The field [is_employee] is not a valid table field.
+Oct 28 16:20:06 Admins-iMac-4.local myScriptLog[4610] <Warning>: The field [is_employee] is not a valid table field.
+Oct 28 16:20:33 Admins-iMac-4.local myScriptLog[4768] <Warning>: The field [is_employee] is not a valid table field.
+Oct 28 16:20:44 Admins-iMac-4.local myScriptLog[4768] <Warning>: The field [is_employee] is not a valid table field.
+Oct 28 16:20:55 Admins-iMac-4.local myScriptLog[4608] <Warning>: The field [is_employee] is not a valid table field.
+Oct 28 16:21:02 Admins-iMac-4.local myScriptLog[4770] <Warning>: The field [is_employee] is not a valid table field.
+Oct 28 16:21:05 Admins-iMac-4.local myScriptLog[4770] <Warning>: The field [is_employee] is not a valid table field.
+Oct 28 16:27:15 Admins-iMac-4.local myScriptLog[4609] <Warning>: The field [is_employee] is not a valid table field.
+Oct 28 16:29:55 Admins-iMac-4.local myScriptLog[4608] <Warning>: The field [is_employee] is not a valid table field.
+Oct 28 16:30:00 Admins-iMac-4.local myScriptLog[4608] <Warning>: The field [is_employee] is not a valid table field.
+[Tue Oct 28 17:02:52 2014] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/root/web/docs-assets, referer: http://localhost/MAMP/?language=English
+Oct 28 17:21:51 Admins-iMac-4.local myScriptLog[4609] <Warning>: The field [is_employee] is not a valid table field.
+Oct 28 17:22:57 Admins-iMac-4.local myScriptLog[6196] <Warning>: The field [is_employee] is not a valid table field.
+Oct 28 17:25:14 Admins-iMac-4.local myScriptLog[4771] <Warning>: The field [is_employee] is not a valid table field.
+Oct 28 17:25:30 Admins-iMac-4.local myScriptLog[4607] <Warning>: The field [is_employee] is not a valid table field.
+Oct 28 17:25:33 Admins-iMac-4.local myScriptLog[4607] <Warning>: The field [is_employee] is not a valid table field.
+Oct 28 17:26:12 Admins-iMac-4.local myScriptLog[6197] <Warning>: The field [is_employee] is not a valid table field.
+Oct 28 17:26:15 Admins-iMac-4.local myScriptLog[6197] <Warning>: The field [is_employee] is not a valid table field.
+Oct 28 17:26:37 Admins-iMac-4.local myScriptLog[4768] <Warning>: The field [is_employee] is not a valid table field.
+Oct 28 17:26:41 Admins-iMac-4.local myScriptLog[4768] <Warning>: The field [is_employee] is not a valid table field.
+Oct 28 17:29:26 Admins-iMac-4.local myScriptLog[4770] <Warning>: The field [is_employee] is not a valid table field.
+Oct 28 17:31:19 Admins-iMac-4.local myScriptLog[6195] <Warning>: The field [is_employee] is not a valid table field.
+Oct 28 17:31:56 Admins-iMac-4.local myScriptLog[4608] <Warning>: The field [is_employee] is not a valid table field.
+Oct 28 17:32:05 Admins-iMac-4.local myScriptLog[4771] <Warning>: The field [is_employee] is not a valid table field.
+Oct 28 17:32:27 Admins-iMac-4.local myScriptLog[4607] <Warning>: The field [is_employee] is not a valid table field.
+Oct 28 17:34:38 Admins-iMac-4.local myScriptLog[4630] <Warning>: The field [is_employee] is not a valid table field.
+Oct 28 18:11:52 Admins-iMac-4.local myScriptLog[4770] <Warning>: The field [is_employee] is not a valid table field.
+Oct 28 18:11:54 Admins-iMac-4.local myScriptLog[4770] <Warning>: The field [is_employee] is not a valid table field.
+Oct 28 18:17:42 Admins-iMac-4.local myScriptLog[6196] <Warning>: The field [is_employee] is not a valid table field.
+Oct 28 18:17:45 Admins-iMac-4.local myScriptLog[6196] <Warning>: The field [is_employee] is not a valid table field.
+[Tue Oct 28 18:32:32 2014] [notice] caught SIGTERM, shutting down
+[Wed Oct 29 09:03:45 2014] [notice] FastCGI: process manager initialized (pid 691)
+[Wed Oct 29 09:03:47 2014] [notice] Digest: generating secret for digest authentication ...
+[Wed Oct 29 09:03:47 2014] [notice] Digest: done
+[Wed Oct 29 09:03:47 2014] [notice] Apache/2.2.29 (Unix) mod_fastcgi/2.4.6 mod_wsgi/3.4 Python/2.7.8 PHP/5.6.2 mod_ssl/2.2.29 OpenSSL/0.9.8za DAV/2 mod_perl/2.0.8 Perl/v5.20.0 configured -- resuming normal operations
+Oct 29 09:04:52 Admins-iMac-4.local myScriptLog[733] <Warning>: The field [is_employee] is not a valid table field.
+Oct 29 09:04:59 Admins-iMac-4.local myScriptLog[733] <Warning>: The field [is_employee] is not a valid table field.
+Oct 29 09:05:02 Admins-iMac-4.local myScriptLog[733] <Warning>: The field [is_employee] is not a valid table field.
+Oct 29 09:05:10 Admins-iMac-4.local myScriptLog[735] <Warning>: The field [is_employee] is not a valid table field.
+Oct 29 09:12:28 Admins-iMac-4.local myScriptLog[775] <Warning>: The field [is_employee] is not a valid table field.
+Oct 29 09:12:35 Admins-iMac-4.local myScriptLog[712] <Warning>: The field [is_employee] is not a valid table field.
+Oct 29 09:12:53 Admins-iMac-4.local myScriptLog[734] <Warning>: The field [is_employee] is not a valid table field.
+Oct 29 09:12:58 Admins-iMac-4.local myScriptLog[734] <Warning>: The field [is_employee] is not a valid table field.
+Oct 29 09:13:04 Admins-iMac-4.local myScriptLog[711] <Warning>: The field [is_employee] is not a valid table field.
+Oct 29 09:13:09 Admins-iMac-4.local myScriptLog[749] <Warning>: The field [is_employee] is not a valid table field.
+Oct 29 09:13:25 Admins-iMac-4.local myScriptLog[729] <Warning>: The field [is_employee] is not a valid table field.
+Oct 29 09:13:40 Admins-iMac-4.local myScriptLog[714] <Warning>: The field [is_employee] is not a valid table field.
+Oct 29 09:14:09 Admins-iMac-4.local myScriptLog[733] <Warning>: The field [is_employee] is not a valid table field.
+Oct 29 09:15:05 Admins-iMac-4.local myScriptLog[748] <Warning>: The field [is_employee] is not a valid table field.
+Oct 29 09:16:32 Admins-iMac-4.local myScriptLog[712] <Warning>: The field [is_employee] is not a valid table field.
+Oct 29 09:17:04 Admins-iMac-4.local myScriptLog[749] <Warning>: The field [is_employee] is not a valid table field.
+Oct 29 09:18:08 Admins-iMac-4.local myScriptLog[733] <Warning>: The field [is_employee] is not a valid table field.
+Oct 29 09:18:23 Admins-iMac-4.local myScriptLog[735] <Warning>: The field [is_employee] is not a valid table field.
+Oct 29 09:18:28 Admins-iMac-4.local myScriptLog[735] <Warning>: The field [is_employee] is not a valid table field.
+Oct 29 09:19:00 Admins-iMac-4.local myScriptLog[712] <Warning>: The field [is_employee] is not a valid table field.
+Oct 29 09:19:07 Admins-iMac-4.local myScriptLog[712] <Warning>: The field [is_employee] is not a valid table field.
+Oct 29 09:19:35 Admins-iMac-4.local myScriptLog[711] <Warning>: The field [is_employee] is not a valid table field.
+Oct 29 09:20:04 Admins-iMac-4.local myScriptLog[729] <Warning>: The field [is_employee] is not a valid table field.
+Oct 29 09:22:31 Admins-iMac-4.local myScriptLog[714] <Warning>: The field [is_employee] is not a valid table field.
+Oct 29 09:23:11 Admins-iMac-4.local myScriptLog[735] <Warning>: The field [is_employee] is not a valid table field.
+Oct 29 09:23:36 Admins-iMac-4.local myScriptLog[748] <Warning>: The field [is_employee] is not a valid table field.
+Oct 29 09:31:57 Admins-iMac-4.local myScriptLog[775] <Warning>: The field [is_employee] is not a valid table field.
+Oct 29 09:32:23 Admins-iMac-4.local myScriptLog[734] <Warning>: The field [is_employee] is not a valid table field.
+Oct 29 09:32:37 Admins-iMac-4.local myScriptLog[712] <Warning>: The field [is_employee] is not a valid table field.
+[Wed Oct 29 10:18:48 2014] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/root/web/hrportal
+[Wed Oct 29 10:21:18 2014] [notice] caught SIGTERM, shutting down
+[Wed Oct 29 10:21:51 2014] [notice] FastCGI: process manager initialized (pid 3137)
+[Wed Oct 29 10:21:52 2014] [notice] Digest: generating secret for digest authentication ...
+[Wed Oct 29 10:21:52 2014] [notice] Digest: done
+[Wed Oct 29 10:21:52 2014] [notice] Apache/2.2.29 (Unix) mod_fastcgi/2.4.6 mod_wsgi/3.4 Python/2.7.8 PHP/5.6.2 mod_ssl/2.2.29 OpenSSL/0.9.8za DAV/2 mod_perl/2.0.8 Perl/v5.20.0 configured -- resuming normal operations
+[Wed Oct 29 10:21:59 2014] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/hrportal/hrportal
+[Wed Oct 29 10:22:00 2014] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/hrportal/hrportal
+[Wed Oct 29 10:22:03 2014] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/hrportal/hrportal
+[Wed Oct 29 10:22:03 2014] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/hrportal/hrportal
+[Wed Oct 29 10:22:03 2014] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/hrportal/hrportal
+[Wed Oct 29 10:23:21 2014] [notice] caught SIGTERM, shutting down
+[Wed Oct 29 10:27:26 2014] [notice] FastCGI: process manager initialized (pid 3361)
+[Wed Oct 29 10:27:26 2014] [notice] Digest: generating secret for digest authentication ...
+[Wed Oct 29 10:27:26 2014] [notice] Digest: done
+[Wed Oct 29 10:27:26 2014] [notice] Apache/2.2.29 (Unix) mod_fastcgi/2.4.6 mod_wsgi/3.4 Python/2.7.8 PHP/5.6.2 mod_ssl/2.2.29 OpenSSL/0.9.8za DAV/2 mod_perl/2.0.8 Perl/v5.20.0 configured -- resuming normal operations
+[Wed Oct 29 10:28:20 2014] [error] [client ::1] File does not exist: /Applications/MAMP/bin/phpMyAdmin/s
+[Wed Oct 29 10:32:51 2014] [error] [client 127.0.0.1] File does not exist: /Applications/MAMP/htdocs/hrportal/css, referer: http://www.hrportal.local/
+[Wed Oct 29 10:32:51 2014] [error] [client 127.0.0.1] File does not exist: /Applications/MAMP/htdocs/hrportal/css, referer: http://www.hrportal.local/
+[Wed Oct 29 10:32:51 2014] [error] [client 127.0.0.1] File does not exist: /Applications/MAMP/htdocs/hrportal/css, referer: http://www.hrportal.local/
+[Wed Oct 29 10:32:51 2014] [error] [client 127.0.0.1] File does not exist: /Applications/MAMP/htdocs/hrportal/css, referer: http://www.hrportal.local/
+[Wed Oct 29 10:32:51 2014] [error] [client 127.0.0.1] File does not exist: /Applications/MAMP/htdocs/hrportal/js, referer: http://www.hrportal.local/
+[Wed Oct 29 10:32:51 2014] [error] [client 127.0.0.1] File does not exist: /Applications/MAMP/htdocs/hrportal/js, referer: http://www.hrportal.local/
+[Wed Oct 29 10:32:55 2014] [error] [client 127.0.0.1] File does not exist: /Applications/MAMP/htdocs/hrportal/css, referer: http://www.hrportal.local/
+[Wed Oct 29 10:32:55 2014] [error] [client 127.0.0.1] File does not exist: /Applications/MAMP/htdocs/hrportal/css, referer: http://www.hrportal.local/
+[Wed Oct 29 10:32:55 2014] [error] [client 127.0.0.1] File does not exist: /Applications/MAMP/htdocs/hrportal/css, referer: http://www.hrportal.local/
+[Wed Oct 29 10:32:55 2014] [error] [client 127.0.0.1] File does not exist: /Applications/MAMP/htdocs/hrportal/css, referer: http://www.hrportal.local/
+[Wed Oct 29 10:32:55 2014] [error] [client 127.0.0.1] File does not exist: /Applications/MAMP/htdocs/hrportal/js, referer: http://www.hrportal.local/
+[Wed Oct 29 10:32:55 2014] [error] [client 127.0.0.1] File does not exist: /Applications/MAMP/htdocs/hrportal/js, referer: http://www.hrportal.local/
+[Wed Oct 29 10:37:02 2014] [error] [client 127.0.0.1] File does not exist: /Applications/MAMP/htdocs/hrportal/css, referer: http://www.hrportal.local/
+[Wed Oct 29 10:37:02 2014] [error] [client 127.0.0.1] File does not exist: /Applications/MAMP/htdocs/hrportal/js, referer: http://www.hrportal.local/
+[Wed Oct 29 10:37:02 2014] [error] [client 127.0.0.1] File does not exist: /Applications/MAMP/htdocs/hrportal/css, referer: http://www.hrportal.local/
+[Wed Oct 29 10:37:02 2014] [error] [client 127.0.0.1] File does not exist: /Applications/MAMP/htdocs/hrportal/js, referer: http://www.hrportal.local/
+[Wed Oct 29 10:37:02 2014] [error] [client 127.0.0.1] File does not exist: /Applications/MAMP/htdocs/hrportal/css, referer: http://www.hrportal.local/
+[Wed Oct 29 10:37:02 2014] [error] [client 127.0.0.1] File does not exist: /Applications/MAMP/htdocs/hrportal/css, referer: http://www.hrportal.local/
+[Wed Oct 29 10:37:02 2014] [error] [client 127.0.0.1] File does not exist: /Applications/MAMP/htdocs/hrportal/img, referer: http://www.hrportal.local/
+[Wed Oct 29 10:37:04 2014] [error] [client 127.0.0.1] File does not exist: /Applications/MAMP/htdocs/hrportal/css, referer: http://www.hrportal.local/
+[Wed Oct 29 10:37:04 2014] [error] [client 127.0.0.1] File does not exist: /Applications/MAMP/htdocs/hrportal/css, referer: http://www.hrportal.local/
+[Wed Oct 29 10:37:04 2014] [error] [client 127.0.0.1] File does not exist: /Applications/MAMP/htdocs/hrportal/css, referer: http://www.hrportal.local/
+[Wed Oct 29 10:37:04 2014] [error] [client 127.0.0.1] File does not exist: /Applications/MAMP/htdocs/hrportal/css, referer: http://www.hrportal.local/
+[Wed Oct 29 10:37:04 2014] [error] [client 127.0.0.1] File does not exist: /Applications/MAMP/htdocs/hrportal/js, referer: http://www.hrportal.local/
+[Wed Oct 29 10:37:04 2014] [error] [client 127.0.0.1] File does not exist: /Applications/MAMP/htdocs/hrportal/js, referer: http://www.hrportal.local/
+Oct 29 10:40:23 Admins-iMac-4.local myScriptLog[3506] <Warning>: The field [is_employee] is not a valid table field.
+Oct 29 10:40:26 Admins-iMac-4.local myScriptLog[3506] <Warning>: The field [is_employee] is not a valid table field.
+Oct 29 10:40:28 Admins-iMac-4.local myScriptLog[3506] <Warning>: The field [is_employee] is not a valid table field.
+Oct 29 10:48:12 Admins-iMac-4.local myScriptLog[3676] <Warning>: The field [is_employee] is not a valid table field.
+Oct 29 10:48:27 Admins-iMac-4.local myScriptLog[3366] <Warning>: The field [is_employee] is not a valid table field.
+Oct 29 10:51:47 Admins-iMac-4.local myScriptLog[3507] <Warning>: The field [is_employee] is not a valid table field.
+Oct 29 10:51:58 Admins-iMac-4.local myScriptLog[3369] <Warning>: The field [is_employee] is not a valid table field.
+Oct 29 10:52:06 Admins-iMac-4.local myScriptLog[3506] <Warning>: The field [is_employee] is not a valid table field.
+Oct 29 10:52:17 Admins-iMac-4.local myScriptLog[3506] <Warning>: The field [is_employee] is not a valid table field.
+Oct 29 10:54:06 Admins-iMac-4.local myScriptLog[3366] <Warning>: The field [is_employee] is not a valid table field.
+Oct 29 10:54:33 Admins-iMac-4.local myScriptLog[3622] <Warning>: The field [is_employee] is not a valid table field.
+Oct 29 10:56:59 Admins-iMac-4.local myScriptLog[3621] <Warning>: The field [is_employee] is not a valid table field.
+Oct 29 10:57:05 Admins-iMac-4.local myScriptLog[3621] <Warning>: The field [is_employee] is not a valid table field.
+Oct 29 10:57:07 Admins-iMac-4.local myScriptLog[3621] <Warning>: The field [is_employee] is not a valid table field.
+Oct 29 11:23:01 Admins-iMac-4.local myScriptLog[3623] <Warning>: The field [is_employee] is not a valid table field.
+Oct 29 11:23:02 Admins-iMac-4.local myScriptLog[3623] <Warning>: The field [is_employee] is not a valid table field.
+Oct 29 11:23:11 Admins-iMac-4.local myScriptLog[3623] <Warning>: The field [is_employee] is not a valid table field.
+Oct 29 11:24:04 Admins-iMac-4.local myScriptLog[3507] <Warning>: The field [is_employee] is not a valid table field.
+Oct 29 11:24:10 Admins-iMac-4.local myScriptLog[3507] <Warning>: The field [is_employee] is not a valid table field.
+Oct 29 11:24:20 Admins-iMac-4.local myScriptLog[3369] <Warning>: The field [is_employee] is not a valid table field.
+Oct 29 11:25:27 Admins-iMac-4.local myScriptLog[3368] <Warning>: The field [is_employee] is not a valid table field.
+[Wed Oct 29 12:17:15 2014] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/hrportal/img, referer: http://localhost/
+Oct 29 13:14:55 Admins-iMac-4.local myScriptLog[6307] <Warning>: The field [is_employee] is not a valid table field.
+Oct 29 13:23:48 Admins-iMac-4.local myScriptLog[3507] <Warning>: The field [is_employee] is not a valid table field.
+Oct 29 15:01:30 Admins-iMac-4.local myScriptLog[3676] <Warning>: The field [is_employee] is not a valid table field.
+Oct 29 15:01:34 Admins-iMac-4.local myScriptLog[3676] <Warning>: The field [is_employee] is not a valid table field.
+Oct 29 15:01:53 Admins-iMac-4.local myScriptLog[3623] <Warning>: The field [is_employee] is not a valid table field.
+Oct 29 15:02:08 Admins-iMac-4.local myScriptLog[3507] <Warning>: The field [is_employee] is not a valid table field.
+Oct 29 15:17:07 Admins-iMac-4.local myScriptLog[3623] <Warning>: The field [is_employee] is not a valid table field.
+Oct 29 15:17:37 Admins-iMac-4.local myScriptLog[3507] <Warning>: The field [is_employee] is not a valid table field.
+Oct 29 15:19:46 Admins-iMac-4.local myScriptLog[3369] <Warning>: The field [is_employee] is not a valid table field.
+Oct 29 15:42:36 Admins-iMac-4.local myScriptLog[6316] <Warning>: The field [is_employee] is not a valid table field.
+Oct 29 15:42:57 Admins-iMac-4.local myScriptLog[3676] <Warning>: The field [is_employee] is not a valid table field.
+Oct 29 15:43:06 Admins-iMac-4.local myScriptLog[3368] <Warning>: The field [is_employee] is not a valid table field.
+Oct 29 15:52:20 Admins-iMac-4.local myScriptLog[6308] <Warning>: The field [is_employee] is not a valid table field.
+Oct 29 15:57:16 Admins-iMac-4.local myScriptLog[3505] <Warning>: The field [is_employee] is not a valid table field.
+Oct 29 16:02:42 Admins-iMac-4.local myScriptLog[3676] <Warning>: The field [is_employee] is not a valid table field.
+Oct 29 16:02:52 Admins-iMac-4.local myScriptLog[3368] <Warning>: The field [is_employee] is not a valid table field.
+Oct 29 16:03:16 Admins-iMac-4.local myScriptLog[3369] <Warning>: The field [is_employee] is not a valid table field.
+Oct 29 16:03:54 Admins-iMac-4.local myScriptLog[3623] <Warning>: The field [is_employee] is not a valid table field.
+Oct 29 16:04:11 Admins-iMac-4.local myScriptLog[3507] <Warning>: The field [is_employee] is not a valid table field.
+Oct 29 16:17:43 Admins-iMac-4.local myScriptLog[3507] <Warning>: The field [is_employee] is not a valid table field.
+Oct 29 16:45:29 Admins-iMac-4.local myScriptLog[3623] <Warning>: The field [is_employee] is not a valid table field.
+Oct 29 16:46:47 Admins-iMac-4.local myScriptLog[6306] <Warning>: The field [is_employee] is not a valid table field.
+Oct 29 16:49:30 Admins-iMac-4.local myScriptLog[3676] <Warning>: The field [is_employee] is not a valid table field.
+Oct 29 16:54:18 Admins-iMac-4.local myScriptLog[6306] <Warning>: The field [is_employee] is not a valid table field.
+Oct 29 16:57:23 Admins-iMac-4.local myScriptLog[6308] <Warning>: The field [is_employee] is not a valid table field.
+Oct 29 17:22:46 Admins-iMac-4.local myScriptLog[6308] <Warning>: The field [is_employee] is not a valid table field.
+Oct 29 17:28:31 Admins-iMac-4.local myScriptLog[3507] <Warning>: The field [is_employee] is not a valid table field.
+Oct 29 18:22:06 Admins-iMac-4.local myScriptLog[3676] <Warning>: The field [is_employee] is not a valid table field.
+Oct 29 18:22:32 Admins-iMac-4.local myScriptLog[3623] <Warning>: The field [is_employee] is not a valid table field.
+Oct 29 18:26:23 Admins-iMac-4.local myScriptLog[10752] <Warning>: The field [is_employee] is not a valid table field.
+Oct 29 18:32:55 Admins-iMac-4.local myScriptLog[3507] <Warning>: The field [is_employee] is not a valid table field.
+Oct 29 18:33:20 Admins-iMac-4.local myScriptLog[3623] <Warning>: The field [is_employee] is not a valid table field.
+[Wed Oct 29 18:35:24 2014] [notice] caught SIGTERM, shutting down
+[Thu Oct 30 08:46:07 2014] [notice] FastCGI: process manager initialized (pid 531)
+[Thu Oct 30 08:46:10 2014] [notice] Digest: generating secret for digest authentication ...
+[Thu Oct 30 08:46:10 2014] [notice] Digest: done
+[Thu Oct 30 08:46:10 2014] [notice] Apache/2.2.29 (Unix) mod_fastcgi/2.4.6 mod_wsgi/3.4 Python/2.7.8 PHP/5.6.2 mod_ssl/2.2.29 OpenSSL/0.9.8za DAV/2 mod_perl/2.0.8 Perl/v5.20.0 configured -- resuming normal operations
+[Thu Oct 30 08:46:16 2014] [notice] caught SIGTERM, shutting down
+[Thu Oct 30 08:50:56 2014] [notice] FastCGI: process manager initialized (pid 764)
+[Thu Oct 30 08:50:57 2014] [notice] Digest: generating secret for digest authentication ...
+[Thu Oct 30 08:50:57 2014] [notice] Digest: done
+[Thu Oct 30 08:50:57 2014] [notice] Apache/2.2.29 (Unix) mod_fastcgi/2.4.6 mod_wsgi/3.4 Python/2.7.8 PHP/5.6.2 mod_ssl/2.2.29 OpenSSL/0.9.8za DAV/2 mod_perl/2.0.8 Perl/v5.20.0 configured -- resuming normal operations
+Oct 30 08:51:26 Admins-iMac-4.local myScriptLog[767] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 08:55:53 Admins-iMac-4.local myScriptLog[767] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 08:59:51 Admins-iMac-4.local myScriptLog[843] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 09:24:54 Admins-iMac-4.local myScriptLog[788] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 09:26:47 Admins-iMac-4.local myScriptLog[787] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 09:26:49 Admins-iMac-4.local myScriptLog[787] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 09:27:10 Admins-iMac-4.local myScriptLog[767] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 09:27:16 Admins-iMac-4.local myScriptLog[1072] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 09:27:28 Admins-iMac-4.local myScriptLog[769] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 09:27:41 Admins-iMac-4.local myScriptLog[845] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 09:27:53 Admins-iMac-4.local myScriptLog[843] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 09:28:01 Admins-iMac-4.local myScriptLog[768] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 09:52:22 Admins-iMac-4.local myScriptLog[766] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 10:04:47 Admins-iMac-4.local myScriptLog[767] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 10:22:59 Admins-iMac-4.local myScriptLog[768] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 10:23:05 Admins-iMac-4.local myScriptLog[768] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 10:23:07 Admins-iMac-4.local myScriptLog[768] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 10:23:14 Admins-iMac-4.local myScriptLog[768] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 11:02:46 Admins-iMac-4.local myScriptLog[844] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 11:19:32 Admins-iMac-4.local myScriptLog[767] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 11:20:11 Admins-iMac-4.local myScriptLog[845] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 11:20:36 Admins-iMac-4.local myScriptLog[769] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 11:22:34 Admins-iMac-4.local myScriptLog[843] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 11:23:13 Admins-iMac-4.local myScriptLog[766] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 11:23:48 Admins-iMac-4.local myScriptLog[788] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 11:32:30 Admins-iMac-4.local myScriptLog[767] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 11:33:02 Admins-iMac-4.local myScriptLog[1072] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 11:37:52 Admins-iMac-4.local myScriptLog[769] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 11:37:56 Admins-iMac-4.local myScriptLog[769] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 11:38:06 Admins-iMac-4.local myScriptLog[843] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 11:38:28 Admins-iMac-4.local myScriptLog[768] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 11:39:43 Admins-iMac-4.local myScriptLog[788] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 11:39:46 Admins-iMac-4.local myScriptLog[788] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 12:11:25 Admins-iMac-4.local myScriptLog[787] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 12:11:38 Admins-iMac-4.local myScriptLog[767] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 12:11:54 Admins-iMac-4.local myScriptLog[1072] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 12:13:02 Admins-iMac-4.local myScriptLog[843] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 12:13:42 Admins-iMac-4.local myScriptLog[766] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 13:30:18 Admins-iMac-4.local myScriptLog[844] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 13:30:59 Admins-iMac-4.local myScriptLog[769] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 13:31:07 Admins-iMac-4.local myScriptLog[843] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 13:32:19 Admins-iMac-4.local myScriptLog[766] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 13:36:40 Admins-iMac-4.local myScriptLog[844] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 13:36:46 Admins-iMac-4.local myScriptLog[844] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 13:39:17 Admins-iMac-4.local myScriptLog[767] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 13:41:34 Admins-iMac-4.local myScriptLog[845] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 13:43:03 Admins-iMac-4.local myScriptLog[768] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 13:43:56 Admins-iMac-4.local myScriptLog[788] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 13:50:49 Admins-iMac-4.local myScriptLog[788] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 13:50:54 Admins-iMac-4.local myScriptLog[788] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 14:00:59 Admins-iMac-4.local myScriptLog[844] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 14:01:13 Admins-iMac-4.local myScriptLog[788] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 14:01:24 Admins-iMac-4.local myScriptLog[768] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 14:01:44 Admins-iMac-4.local myScriptLog[767] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 14:02:01 Admins-iMac-4.local myScriptLog[787] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 14:02:06 Admins-iMac-4.local myScriptLog[844] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 14:02:32 Admins-iMac-4.local myScriptLog[8408] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 14:07:19 Admins-iMac-4.local myScriptLog[767] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 14:11:03 Admins-iMac-4.local myScriptLog[8401] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 14:18:19 Admins-iMac-4.local myScriptLog[8408] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 14:18:23 Admins-iMac-4.local myScriptLog[8408] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 14:24:21 Admins-iMac-4.local myScriptLog[768] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 14:36:12 Admins-iMac-4.local myScriptLog[844] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 14:37:14 Admins-iMac-4.local myScriptLog[787] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 14:37:17 Admins-iMac-4.local myScriptLog[787] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 14:37:39 Admins-iMac-4.local myScriptLog[8430] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 14:44:23 Admins-iMac-4.local myScriptLog[768] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 14:45:37 Admins-iMac-4.local myScriptLog[844] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 14:46:37 Admins-iMac-4.local myScriptLog[767] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 14:48:46 Admins-iMac-4.local myScriptLog[8408] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 16:07:09 Admins-iMac-4.local myScriptLog[8408] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 16:10:59 Admins-iMac-4.local myScriptLog[844] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 16:11:36 Admins-iMac-4.local myScriptLog[768] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 16:23:30 Admins-iMac-4.local myScriptLog[767] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 16:30:28 Admins-iMac-4.local myScriptLog[8408] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 16:34:44 Admins-iMac-4.local myScriptLog[8430] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 16:35:09 Admins-iMac-4.local myScriptLog[844] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 16:35:13 Admins-iMac-4.local myScriptLog[844] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 16:37:35 Admins-iMac-4.local myScriptLog[8447] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 16:41:18 Admins-iMac-4.local myScriptLog[8401] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 16:41:53 Admins-iMac-4.local myScriptLog[787] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 16:43:18 Admins-iMac-4.local myScriptLog[8421] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 16:43:45 Admins-iMac-4.local myScriptLog[766] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 16:44:24 Admins-iMac-4.local myScriptLog[768] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 16:44:28 Admins-iMac-4.local myScriptLog[768] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 16:46:44 Admins-iMac-4.local myScriptLog[8408] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 16:47:00 Admins-iMac-4.local myScriptLog[787] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 16:51:44 Admins-iMac-4.local myScriptLog[8421] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 16:51:53 Admins-iMac-4.local myScriptLog[844] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 16:54:56 Admins-iMac-4.local myScriptLog[768] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 16:55:17 Admins-iMac-4.local myScriptLog[8401] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 16:56:04 Admins-iMac-4.local myScriptLog[844] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 16:59:47 Admins-iMac-4.local myScriptLog[8447] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 17:15:20 Admins-iMac-4.local myScriptLog[8408] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 17:15:32 Admins-iMac-4.local myScriptLog[787] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 17:20:59 Admins-iMac-4.local myScriptLog[766] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 17:22:50 Admins-iMac-4.local myScriptLog[768] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 17:25:29 Admins-iMac-4.local myScriptLog[8401] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 17:26:00 Admins-iMac-4.local myScriptLog[8430] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 17:26:02 Admins-iMac-4.local myScriptLog[8430] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 17:31:44 Admins-iMac-4.local myScriptLog[844] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 17:32:13 Admins-iMac-4.local myScriptLog[768] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 17:33:09 Admins-iMac-4.local myScriptLog[8447] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 17:35:41 Admins-iMac-4.local myScriptLog[8401] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 17:36:25 Admins-iMac-4.local myScriptLog[787] <Warning>: The field [is_employee] is not a valid table field.
+[Thu Oct 30 17:37:08 2014] [notice] caught SIGTERM, shutting down
+[Thu Oct 30 17:37:15 2014] [notice] FastCGI: process manager initialized (pid 16731)
+[Thu Oct 30 17:37:16 2014] [notice] Digest: generating secret for digest authentication ...
+[Thu Oct 30 17:37:16 2014] [notice] Digest: done
+[Thu Oct 30 17:37:16 2014] [notice] Apache/2.2.29 (Unix) mod_fastcgi/2.4.6 mod_wsgi/3.4 Python/2.7.8 PHP/5.6.2 mod_ssl/2.2.29 OpenSSL/0.9.8za DAV/2 mod_perl/2.0.8 Perl/v5.20.0 configured -- resuming normal operations
+Oct 30 17:37:27 Admins-iMac-4.local myScriptLog[16734] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 17:37:29 Admins-iMac-4.local myScriptLog[16734] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 17:37:35 Admins-iMac-4.local myScriptLog[16734] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 17:37:38 Admins-iMac-4.local myScriptLog[16734] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 17:39:08 Admins-iMac-4.local myScriptLog[16735] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 17:39:53 Admins-iMac-4.local myScriptLog[16733] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 17:40:01 Admins-iMac-4.local myScriptLog[16733] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 17:40:16 Admins-iMac-4.local myScriptLog[16759] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 17:40:53 Admins-iMac-4.local myScriptLog[16737] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 17:40:55 Admins-iMac-4.local myScriptLog[16737] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 17:40:58 Admins-iMac-4.local myScriptLog[16737] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 17:42:43 Admins-iMac-4.local myScriptLog[16752] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 17:43:00 Admins-iMac-4.local myScriptLog[16759] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 17:46:23 Admins-iMac-4.local myScriptLog[16737] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 17:48:17 Admins-iMac-4.local myScriptLog[16736] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 17:50:26 Admins-iMac-4.local myScriptLog[16733] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 17:53:35 Admins-iMac-4.local myScriptLog[16734] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 17:54:07 Admins-iMac-4.local myScriptLog[16735] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 17:54:12 Admins-iMac-4.local myScriptLog[16735] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 17:55:54 Admins-iMac-4.local myScriptLog[16733] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 17:55:57 Admins-iMac-4.local myScriptLog[16733] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 17:56:48 Admins-iMac-4.local myScriptLog[16737] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 17:56:49 Admins-iMac-4.local myScriptLog[16737] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 17:58:42 Admins-iMac-4.local myScriptLog[16752] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 18:01:13 Admins-iMac-4.local myScriptLog[16733] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 18:01:18 Admins-iMac-4.local myScriptLog[16759] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 18:01:44 Admins-iMac-4.local myScriptLog[16737] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 18:02:14 Admins-iMac-4.local myScriptLog[16752] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 18:03:08 Admins-iMac-4.local myScriptLog[16733] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 18:03:09 Admins-iMac-4.local myScriptLog[16733] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 18:03:09 Admins-iMac-4.local myScriptLog[16733] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 18:03:09 Admins-iMac-4.local myScriptLog[16733] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 18:03:27 Admins-iMac-4.local myScriptLog[16759] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 18:03:34 Admins-iMac-4.local myScriptLog[16759] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 18:03:46 Admins-iMac-4.local myScriptLog[16737] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 18:04:27 Admins-iMac-4.local myScriptLog[16733] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 18:04:41 Admins-iMac-4.local myScriptLog[16759] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 18:04:48 Admins-iMac-4.local myScriptLog[16737] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 18:05:32 Admins-iMac-4.local myScriptLog[16752] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 18:05:42 Admins-iMac-4.local myScriptLog[16736] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 18:05:46 Admins-iMac-4.local myScriptLog[16736] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 18:06:34 Admins-iMac-4.local myScriptLog[16734] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 18:08:24 Admins-iMac-4.local myScriptLog[16752] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 18:08:32 Admins-iMac-4.local myScriptLog[16736] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 18:08:41 Admins-iMac-4.local myScriptLog[16733] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 18:09:01 Admins-iMac-4.local myScriptLog[16759] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 18:09:54 Admins-iMac-4.local myScriptLog[16734] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 18:09:55 Admins-iMac-4.local myScriptLog[16734] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 18:09:58 Admins-iMac-4.local myScriptLog[16734] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 18:10:27 Admins-iMac-4.local myScriptLog[16737] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 18:13:12 Admins-iMac-4.local myScriptLog[16752] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 18:13:54 Admins-iMac-4.local myScriptLog[16733] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 18:14:03 Admins-iMac-4.local myScriptLog[16733] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 18:14:11 Admins-iMac-4.local myScriptLog[16733] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 18:14:49 Admins-iMac-4.local myScriptLog[16759] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 18:14:58 Admins-iMac-4.local myScriptLog[16734] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 18:15:14 Admins-iMac-4.local myScriptLog[16734] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 18:15:31 Admins-iMac-4.local myScriptLog[16737] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 18:15:36 Admins-iMac-4.local myScriptLog[16737] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 18:22:27 Admins-iMac-4.local myScriptLog[16735] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 18:22:38 Admins-iMac-4.local myScriptLog[16752] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 18:22:41 Admins-iMac-4.local myScriptLog[16752] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 18:22:44 Admins-iMac-4.local myScriptLog[16752] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 18:22:58 Admins-iMac-4.local myScriptLog[16736] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 18:23:07 Admins-iMac-4.local myScriptLog[16733] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 18:23:15 Admins-iMac-4.local myScriptLog[16759] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 18:23:17 Admins-iMac-4.local myScriptLog[16759] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 18:23:20 Admins-iMac-4.local myScriptLog[16759] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 18:25:39 Admins-iMac-4.local myScriptLog[16737] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 18:25:44 Admins-iMac-4.local myScriptLog[16737] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 18:25:47 Admins-iMac-4.local myScriptLog[16737] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 18:26:49 Admins-iMac-4.local myScriptLog[16735] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 18:27:20 Admins-iMac-4.local myScriptLog[16752] <Warning>: The field [is_employee] is not a valid table field.
+Oct 30 18:27:23 Admins-iMac-4.local myScriptLog[16752] <Warning>: The field [is_employee] is not a valid table field.
+[Thu Oct 30 18:28:13 2014] [notice] caught SIGTERM, shutting down
+[Fri Oct 31 08:48:08 2014] [notice] FastCGI: process manager initialized (pid 537)
+[Fri Oct 31 08:48:11 2014] [notice] Digest: generating secret for digest authentication ...
+[Fri Oct 31 08:48:11 2014] [notice] Digest: done
+[Fri Oct 31 08:48:11 2014] [notice] Apache/2.2.29 (Unix) mod_fastcgi/2.4.6 mod_wsgi/3.4 Python/2.7.8 PHP/5.6.2 mod_ssl/2.2.29 OpenSSL/0.9.8za DAV/2 mod_perl/2.0.8 Perl/v5.20.0 configured -- resuming normal operations
+[Fri Oct 31 08:48:14 2014] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/hrportal/img, referer: http://localhost/
+Oct 31 08:48:15 Admins-iMac-4.local myScriptLog[587] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 09:46:07 Admins-iMac-4.local myScriptLog[592] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 09:46:09 Admins-iMac-4.local myScriptLog[592] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 09:46:09 Admins-iMac-4.local myScriptLog[592] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 09:46:09 Admins-iMac-4.local myScriptLog[592] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 09:46:20 Admins-iMac-4.local myScriptLog[592] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 09:46:23 Admins-iMac-4.local myScriptLog[592] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 09:46:40 Admins-iMac-4.local myScriptLog[589] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 09:46:42 Admins-iMac-4.local myScriptLog[589] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 09:49:21 Admins-iMac-4.local myScriptLog[593] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 09:49:33 Admins-iMac-4.local myScriptLog[587] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 09:49:47 Admins-iMac-4.local myScriptLog[591] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 09:49:56 Admins-iMac-4.local myScriptLog[592] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 09:51:44 Admins-iMac-4.local myScriptLog[584] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 09:53:02 Admins-iMac-4.local myScriptLog[589] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 09:54:33 Admins-iMac-4.local myScriptLog[593] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 09:54:40 Admins-iMac-4.local myScriptLog[587] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 09:57:04 Admins-iMac-4.local myScriptLog[2527] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 10:27:19 Admins-iMac-4.local myScriptLog[591] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 10:29:05 Admins-iMac-4.local myScriptLog[592] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 10:29:16 Admins-iMac-4.local myScriptLog[581] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 10:29:22 Admins-iMac-4.local myScriptLog[582] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 10:30:05 Admins-iMac-4.local myScriptLog[584] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 10:39:33 Admins-iMac-4.local myScriptLog[567] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 10:43:24 Admins-iMac-4.local myScriptLog[587] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 10:43:34 Admins-iMac-4.local myScriptLog[2527] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 10:43:48 Admins-iMac-4.local myScriptLog[591] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 10:44:09 Admins-iMac-4.local myScriptLog[592] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 10:44:19 Admins-iMac-4.local myScriptLog[581] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 10:48:43 Admins-iMac-4.local myScriptLog[584] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 10:48:58 Admins-iMac-4.local myScriptLog[567] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 10:49:08 Admins-iMac-4.local myScriptLog[589] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 10:49:21 Admins-iMac-4.local myScriptLog[593] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 10:49:36 Admins-iMac-4.local myScriptLog[587] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 10:50:13 Admins-iMac-4.local myScriptLog[2527] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 10:51:36 Admins-iMac-4.local myScriptLog[591] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 10:53:10 Admins-iMac-4.local myScriptLog[592] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 10:53:28 Admins-iMac-4.local myScriptLog[581] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 10:55:04 Admins-iMac-4.local myScriptLog[582] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 10:55:14 Admins-iMac-4.local myScriptLog[584] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 10:55:44 Admins-iMac-4.local myScriptLog[567] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 10:55:52 Admins-iMac-4.local myScriptLog[589] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 10:57:00 Admins-iMac-4.local myScriptLog[587] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 10:57:06 Admins-iMac-4.local myScriptLog[587] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 11:04:54 Admins-iMac-4.local myScriptLog[581] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 11:07:17 Admins-iMac-4.local myScriptLog[567] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 11:07:23 Admins-iMac-4.local myScriptLog[589] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 11:10:30 Admins-iMac-4.local myScriptLog[593] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 11:11:09 Admins-iMac-4.local myScriptLog[2527] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 11:11:16 Admins-iMac-4.local myScriptLog[2527] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 11:13:00 Admins-iMac-4.local myScriptLog[587] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 11:13:08 Admins-iMac-4.local myScriptLog[591] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 11:14:06 Admins-iMac-4.local myScriptLog[592] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 11:14:17 Admins-iMac-4.local myScriptLog[581] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 11:14:43 Admins-iMac-4.local myScriptLog[582] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 11:16:05 Admins-iMac-4.local myScriptLog[584] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 11:16:15 Admins-iMac-4.local myScriptLog[567] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 11:18:57 Admins-iMac-4.local myScriptLog[589] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 11:19:06 Admins-iMac-4.local myScriptLog[593] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 11:20:03 Admins-iMac-4.local myScriptLog[2527] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 11:20:50 Admins-iMac-4.local myScriptLog[587] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 11:20:58 Admins-iMac-4.local myScriptLog[591] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 11:21:05 Admins-iMac-4.local myScriptLog[591] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 11:25:12 Admins-iMac-4.local myScriptLog[592] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 11:25:23 Admins-iMac-4.local myScriptLog[581] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 11:25:39 Admins-iMac-4.local myScriptLog[582] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 11:25:45 Admins-iMac-4.local myScriptLog[584] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 11:25:52 Admins-iMac-4.local myScriptLog[567] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 11:26:50 Admins-iMac-4.local myScriptLog[589] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 11:28:09 Admins-iMac-4.local myScriptLog[593] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 11:28:17 Admins-iMac-4.local myScriptLog[2527] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 11:30:05 Admins-iMac-4.local myScriptLog[587] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 11:30:17 Admins-iMac-4.local myScriptLog[591] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 11:34:04 Admins-iMac-4.local myScriptLog[592] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 11:34:14 Admins-iMac-4.local myScriptLog[581] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 11:36:41 Admins-iMac-4.local myScriptLog[582] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 11:36:49 Admins-iMac-4.local myScriptLog[582] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 11:36:59 Admins-iMac-4.local myScriptLog[567] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 11:37:27 Admins-iMac-4.local myScriptLog[589] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 11:37:40 Admins-iMac-4.local myScriptLog[593] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 11:38:26 Admins-iMac-4.local myScriptLog[2527] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 11:40:39 Admins-iMac-4.local myScriptLog[587] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 11:42:31 Admins-iMac-4.local myScriptLog[592] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 11:42:35 Admins-iMac-4.local myScriptLog[592] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 11:42:45 Admins-iMac-4.local myScriptLog[584] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 11:42:52 Admins-iMac-4.local myScriptLog[582] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 11:43:48 Admins-iMac-4.local myScriptLog[593] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 11:43:53 Admins-iMac-4.local myScriptLog[593] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 11:44:02 Admins-iMac-4.local myScriptLog[2527] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 11:44:12 Admins-iMac-4.local myScriptLog[587] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 11:47:50 Admins-iMac-4.local myScriptLog[581] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 11:47:54 Admins-iMac-4.local myScriptLog[581] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 11:50:05 Admins-iMac-4.local myScriptLog[593] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 11:51:14 Admins-iMac-4.local myScriptLog[587] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 11:51:31 Admins-iMac-4.local myScriptLog[581] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 12:08:21 Admins-iMac-4.local myScriptLog[2527] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 12:27:59 Admins-iMac-4.local myScriptLog[584] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 12:28:07 Admins-iMac-4.local myScriptLog[592] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 12:28:18 Admins-iMac-4.local myScriptLog[593] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 13:15:36 Admins-iMac-4.local myScriptLog[592] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 13:15:42 Admins-iMac-4.local myScriptLog[593] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 13:15:56 Admins-iMac-4.local myScriptLog[587] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 13:16:08 Admins-iMac-4.local myScriptLog[591] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 13:18:40 Admins-iMac-4.local myScriptLog[593] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 13:25:59 Admins-iMac-4.local myScriptLog[587] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 13:48:31 Admins-iMac-4.local myScriptLog[587] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 13:48:37 Admins-iMac-4.local myScriptLog[591] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 13:49:52 Admins-iMac-4.local myScriptLog[567] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 13:50:13 Admins-iMac-4.local myScriptLog[10071] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 13:50:21 Admins-iMac-4.local myScriptLog[587] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 13:52:24 Admins-iMac-4.local myScriptLog[589] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 14:00:31 Admins-iMac-4.local myScriptLog[581] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 14:00:36 Admins-iMac-4.local myScriptLog[581] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 14:06:44 Admins-iMac-4.local myScriptLog[9889] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 14:06:45 Admins-iMac-4.local myScriptLog[9889] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 14:06:53 Admins-iMac-4.local myScriptLog[591] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 14:08:02 Admins-iMac-4.local myScriptLog[584] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 14:08:05 Admins-iMac-4.local myScriptLog[584] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 14:08:35 Admins-iMac-4.local myScriptLog[567] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 14:09:41 Admins-iMac-4.local myScriptLog[582] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 14:09:44 Admins-iMac-4.local myScriptLog[582] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 14:10:31 Admins-iMac-4.local myScriptLog[592] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 14:10:44 Admins-iMac-4.local myScriptLog[581] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 14:11:52 Admins-iMac-4.local myScriptLog[9889] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 14:11:53 Admins-iMac-4.local myScriptLog[9889] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 14:12:02 Admins-iMac-4.local myScriptLog[591] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 14:15:41 Admins-iMac-4.local myScriptLog[584] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 14:16:05 Admins-iMac-4.local myScriptLog[567] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 14:18:02 Admins-iMac-4.local myScriptLog[587] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 14:18:05 Admins-iMac-4.local myScriptLog[587] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 14:19:00 Admins-iMac-4.local myScriptLog[581] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 14:22:46 Admins-iMac-4.local myScriptLog[9889] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 14:22:50 Admins-iMac-4.local myScriptLog[9889] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 14:23:01 Admins-iMac-4.local myScriptLog[591] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 14:23:02 Admins-iMac-4.local myScriptLog[591] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 14:24:41 Admins-iMac-4.local myScriptLog[584] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 14:25:27 Admins-iMac-4.local myScriptLog[587] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 14:26:23 Admins-iMac-4.local myScriptLog[591] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 14:26:39 Admins-iMac-4.local myScriptLog[584] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 14:26:53 Admins-iMac-4.local myScriptLog[567] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 14:27:13 Admins-iMac-4.local myScriptLog[10071] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 14:44:43 Admins-iMac-4.local myScriptLog[589] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 14:44:50 Admins-iMac-4.local myScriptLog[589] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 15:05:55 Admins-iMac-4.local myScriptLog[567] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 15:24:21 Admins-iMac-4.local myScriptLog[9889] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 15:34:22 Admins-iMac-4.local myScriptLog[591] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 15:34:39 Admins-iMac-4.local myScriptLog[591] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 16:40:10 Admins-iMac-4.local myScriptLog[589] <Warning>: The field [is_employee] is not a valid table field.
+Oct 31 17:55:50 Admins-iMac-4.local myScriptLog[587] <Warning>: The field [is_employee] is not a valid table field.
+[Fri Oct 31 18:22:23 2014] [notice] caught SIGTERM, shutting down
+[Mon Nov 03 08:46:50 2014] [notice] FastCGI: process manager initialized (pid 559)
+[Mon Nov 03 08:46:52 2014] [notice] Digest: generating secret for digest authentication ...
+[Mon Nov 03 08:46:52 2014] [notice] Digest: done
+[Mon Nov 03 08:46:52 2014] [notice] Apache/2.2.29 (Unix) mod_fastcgi/2.4.6 mod_wsgi/3.4 Python/2.7.8 PHP/5.6.2 mod_ssl/2.2.29 OpenSSL/0.9.8za DAV/2 mod_perl/2.0.8 Perl/v5.20.0 configured -- resuming normal operations
+[Mon Nov 03 08:46:57 2014] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/hrportal/docs-assets, referer: http://localhost/MAMP/?language=English
+Nov  3 08:49:51 Admins-iMac-4.local myScriptLog[583] <Warning>: The field [is_employee] is not a valid table field.
+Nov  3 11:36:22 Admins-iMac-4.local myScriptLog[681] <Warning>: The field [is_employee] is not a valid table field.
+Nov  3 11:36:26 Admins-iMac-4.local myScriptLog[681] <Warning>: The field [is_employee] is not a valid table field.
+Nov  3 13:07:29 Admins-iMac-4.local myScriptLog[606] <Warning>: The field [is_employee] is not a valid table field.
+Nov  3 13:08:54 Admins-iMac-4.local myScriptLog[583] <Warning>: The field [is_employee] is not a valid table field.
+Nov  3 13:09:44 Admins-iMac-4.local myScriptLog[582] <Warning>: The field [is_employee] is not a valid table field.
+Nov  3 13:10:13 Admins-iMac-4.local myScriptLog[598] <Warning>: The field [is_employee] is not a valid table field.
+Nov  3 15:17:22 Admins-iMac-4.local myScriptLog[681] <Warning>: The field [is_employee] is not a valid table field.
+Nov  3 15:19:05 Admins-iMac-4.local myScriptLog[598] <Warning>: The field [is_employee] is not a valid table field.
+Nov  3 15:26:17 Admins-iMac-4.local myScriptLog[585] <Warning>: The field [is_employee] is not a valid table field.
+Nov  3 15:30:47 Admins-iMac-4.local myScriptLog[702] <Warning>: The field [is_employee] is not a valid table field.
+Nov  3 15:31:48 Admins-iMac-4.local myScriptLog[598] <Warning>: The field [is_employee] is not a valid table field.
+Nov  3 15:37:58 Admins-iMac-4.local myScriptLog[678] <Warning>: The field [is_employee] is not a valid table field.
+Nov  3 16:22:34 Admins-iMac-4.local myScriptLog[585] <Warning>: The field [is_employee] is not a valid table field.
+Nov  3 16:22:34 Admins-iMac-4.local myScriptLog[585] <Warning>: The field [gross_pay] is not a valid table field.
+Nov  3 16:22:35 Admins-iMac-4.local myScriptLog[585] <Warning>: The field [gross_pay] is not a valid table field.
+Nov  3 16:22:35 Admins-iMac-4.local myScriptLog[585] <Warning>: The field [gross_pay] is not a valid table field.
+Nov  3 16:22:35 Admins-iMac-4.local myScriptLog[585] <Warning>: The field [gross_pay] is not a valid table field.
+Nov  3 16:22:35 Admins-iMac-4.local myScriptLog[585] <Warning>: The field [gross_pay] is not a valid table field.
+Nov  3 16:22:35 Admins-iMac-4.local myScriptLog[585] <Warning>: The field [gross_pay] is not a valid table field.
+Nov  3 16:22:35 Admins-iMac-4.local myScriptLog[585] <Warning>: The field [gross_pay] is not a valid table field.
+Nov  3 16:22:35 Admins-iMac-4.local myScriptLog[585] <Warning>: The field [gross_pay] is not a valid table field.
+Nov  3 16:22:35 Admins-iMac-4.local myScriptLog[585] <Warning>: The field [gross_pay] is not a valid table field.
+Nov  3 16:22:35 Admins-iMac-4.local myScriptLog[585] <Warning>: The field [gross_pay] is not a valid table field.
+Nov  3 16:22:35 Admins-iMac-4.local myScriptLog[585] <Warning>: The field [gross_pay] is not a valid table field.
+Nov  3 16:22:35 Admins-iMac-4.local myScriptLog[585] <Warning>: The field [gross_pay] is not a valid table field.
+Nov  3 16:22:35 Admins-iMac-4.local myScriptLog[585] <Warning>: The field [gross_pay] is not a valid table field.
+Nov  3 16:22:35 Admins-iMac-4.local myScriptLog[585] <Warning>: The field [gross_pay] is not a valid table field.
+Nov  3 16:22:35 Admins-iMac-4.local myScriptLog[585] <Warning>: The field [gross_pay] is not a valid table field.
+Nov  3 16:22:35 Admins-iMac-4.local myScriptLog[585] <Warning>: The field [gross_pay] is not a valid table field.
+Nov  3 16:22:35 Admins-iMac-4.local myScriptLog[585] <Warning>: The field [gross_pay] is not a valid table field.
+Nov  3 16:22:35 Admins-iMac-4.local myScriptLog[585] <Warning>: The field [gross_pay] is not a valid table field.
+Nov  3 16:22:35 Admins-iMac-4.local myScriptLog[585] <Warning>: The field [gross_pay] is not a valid table field.
+Nov  3 16:22:35 Admins-iMac-4.local myScriptLog[585] <Warning>: The field [gross_pay] is not a valid table field.
+Nov  3 16:22:35 Admins-iMac-4.local myScriptLog[585] <Warning>: The field [gross_pay] is not a valid table field.
+Nov  3 16:22:35 Admins-iMac-4.local myScriptLog[585] <Warning>: The field [gross_pay] is not a valid table field.
+Nov  3 16:22:35 Admins-iMac-4.local myScriptLog[585] <Warning>: The field [gross_pay] is not a valid table field.
+Nov  3 16:22:35 Admins-iMac-4.local myScriptLog[585] <Warning>: The field [gross_pay] is not a valid table field.
+Nov  3 16:22:35 Admins-iMac-4.local myScriptLog[585] <Warning>: The field [gross_pay] is not a valid table field.
+Nov  3 16:22:35 Admins-iMac-4.local myScriptLog[585] <Warning>: The field [gross_pay] is not a valid table field.
+Nov  3 16:22:35 Admins-iMac-4.local myScriptLog[585] <Warning>: The field [gross_pay] is not a valid table field.
+Nov  3 16:22:35 Admins-iMac-4.local myScriptLog[585] <Warning>: The field [gross_pay] is not a valid table field.
+Nov  3 16:22:35 Admins-iMac-4.local myScriptLog[585] <Warning>: The field [gross_pay] is not a valid table field.
+Nov  3 16:22:35 Admins-iMac-4.local myScriptLog[585] <Warning>: The field [gross_pay] is not a valid table field.
+Nov  3 16:22:35 Admins-iMac-4.local myScriptLog[585] <Warning>: The field [gross_pay] is not a valid table field.
+Nov  3 16:22:35 Admins-iMac-4.local myScriptLog[585] <Warning>: The field [gross_pay] is not a valid table field.
+Nov  3 16:22:35 Admins-iMac-4.local myScriptLog[585] <Warning>: The field [gross_pay] is not a valid table field.
+Nov  3 16:22:35 Admins-iMac-4.local myScriptLog[585] <Warning>: The field [gross_pay] is not a valid table field.
+Nov  3 16:22:35 Admins-iMac-4.local myScriptLog[585] <Warning>: The field [gross_pay] is not a valid table field.
+Nov  3 16:22:35 Admins-iMac-4.local myScriptLog[585] <Warning>: The field [gross_pay] is not a valid table field.
+Nov  3 16:22:35 Admins-iMac-4.local myScriptLog[585] <Warning>: The field [gross_pay] is not a valid table field.
+Nov  3 16:22:35 Admins-iMac-4.local myScriptLog[585] <Warning>: The field [gross_pay] is not a valid table field.
+Nov  3 16:22:35 Admins-iMac-4.local myScriptLog[585] <Warning>: The field [gross_pay] is not a valid table field.
+Nov  3 16:22:35 Admins-iMac-4.local myScriptLog[585] <Warning>: The field [gross_pay] is not a valid table field.
+Nov  3 16:22:35 Admins-iMac-4.local myScriptLog[585] <Warning>: The field [gross_pay] is not a valid table field.
+Nov  3 16:22:35 Admins-iMac-4.local myScriptLog[585] <Warning>: The field [gross_pay] is not a valid table field.
+Nov  3 16:22:35 Admins-iMac-4.local myScriptLog[585] <Warning>: The field [gross_pay] is not a valid table field.
+Nov  3 16:22:35 Admins-iMac-4.local myScriptLog[585] <Warning>: The field [gross_pay] is not a valid table field.
+Nov  3 16:22:35 Admins-iMac-4.local myScriptLog[585] <Warning>: The field [gross_pay] is not a valid table field.
+Nov  3 16:22:35 Admins-iMac-4.local myScriptLog[585] <Warning>: The field [gross_pay] is not a valid table field.
+Nov  3 16:22:35 Admins-iMac-4.local myScriptLog[585] <Warning>: The field [gross_pay] is not a valid table field.
+Nov  3 16:22:35 Admins-iMac-4.local myScriptLog[585] <Warning>: The field [gross_pay] is not a valid table field.
+Nov  3 16:22:35 Admins-iMac-4.local myScriptLog[585] <Warning>: The field [gross_pay] is not a valid table field.
+Nov  3 16:22:35 Admins-iMac-4.local myScriptLog[585] <Warning>: The field [gross_pay] is not a valid table field.
+Nov  3 16:22:35 Admins-iMac-4.local myScriptLog[585] <Warning>: The field [gross_pay] is not a valid table field.
+Nov  3 16:22:35 Admins-iMac-4.local myScriptLog[585] <Warning>: The field [gross_pay] is not a valid table field.
+Nov  3 16:22:35 Admins-iMac-4.local myScriptLog[585] <Warning>: The field [gross_pay] is not a valid table field.
+Nov  3 16:22:35 Admins-iMac-4.local myScriptLog[585] <Warning>: The field [gross_pay] is not a valid table field.
+Nov  3 16:22:35 Admins-iMac-4.local myScriptLog[585] <Warning>: The field [gross_pay] is not a valid table field.
+Nov  3 16:22:35 Admins-iMac-4.local myScriptLog[585] <Warning>: The field [gross_pay] is not a valid table field.
+Nov  3 16:22:35 Admins-iMac-4.local myScriptLog[585] <Warning>: The field [gross_pay] is not a valid table field.
+Nov  3 16:22:35 Admins-iMac-4.local myScriptLog[585] <Warning>: The field [gross_pay] is not a valid table field.
+Nov  3 16:22:35 Admins-iMac-4.local myScriptLog[585] <Warning>: The field [gross_pay] is not a valid table field.
+Nov  3 16:22:35 Admins-iMac-4.local myScriptLog[585] <Warning>: The field [gross_pay] is not a valid table field.
+Nov  3 16:22:35 Admins-iMac-4.local myScriptLog[585] <Warning>: The field [gross_pay] is not a valid table field.
+Nov  3 16:22:35 Admins-iMac-4.local myScriptLog[585] <Warning>: The field [gross_pay] is not a valid table field.
+Nov  3 16:22:35 Admins-iMac-4.local myScriptLog[585] <Warning>: The field [gross_pay] is not a valid table field.
+Nov  3 16:22:35 Admins-iMac-4.local myScriptLog[585] <Warning>: The field [gross_pay] is not a valid table field.
+Nov  3 16:22:35 Admins-iMac-4.local myScriptLog[585] <Warning>: The field [gross_pay] is not a valid table field.
+Nov  3 16:22:35 Admins-iMac-4.local myScriptLog[585] <Warning>: The field [gross_pay] is not a valid table field.
+Nov  3 16:22:35 Admins-iMac-4.local myScriptLog[585] <Warning>: The field [gross_pay] is not a valid table field.
+Nov  3 16:22:35 Admins-iMac-4.local myScriptLog[585] <Warning>: The field [gross_pay] is not a valid table field.
+Nov  3 16:22:35 Admins-iMac-4.local myScriptLog[585] <Warning>: The field [gross_pay] is not a valid table field.
+Nov  3 16:22:35 Admins-iMac-4.local myScriptLog[585] <Warning>: The field [gross_pay] is not a valid table field.
+Nov  3 16:22:35 Admins-iMac-4.local myScriptLog[585] <Warning>: The field [gross_pay] is not a valid table field.
+Nov  3 16:22:35 Admins-iMac-4.local myScriptLog[585] <Warning>: The field [gross_pay] is not a valid table field.
+Nov  3 16:22:35 Admins-iMac-4.local myScriptLog[585] <Warning>: The field [gross_pay] is not a valid table field.
+Nov  3 16:22:35 Admins-iMac-4.local myScriptLog[585] <Warning>: The field [gross_pay] is not a valid table field.
+Nov  3 16:22:35 Admins-iMac-4.local myScriptLog[585] <Warning>: The field [gross_pay] is not a valid table field.
+Nov  3 16:22:35 Admins-iMac-4.local myScriptLog[585] <Warning>: The field [gross_pay] is not a valid table field.
+Nov  3 16:22:35 Admins-iMac-4.local myScriptLog[585] <Warning>: The field [gross_pay] is not a valid table field.
+Nov  3 16:50:07 Admins-iMac-4.local myScriptLog[681] <Warning>: The field [is_employee] is not a valid table field.
+Nov  3 16:50:34 Admins-iMac-4.local myScriptLog[702] <Warning>: The field [is_employee] is not a valid table field.
+Nov  3 16:51:16 Admins-iMac-4.local myScriptLog[598] <Warning>: The field [is_employee] is not a valid table field.
+Nov  3 16:53:45 Admins-iMac-4.local myScriptLog[583] <Warning>: The field [is_employee] is not a valid table field.
+Nov  3 16:54:06 Admins-iMac-4.local myScriptLog[584] <Warning>: The field [is_employee] is not a valid table field.
+Nov  3 16:56:30 Admins-iMac-4.local myScriptLog[681] <Warning>: The field [is_employee] is not a valid table field.
+Nov  3 16:57:34 Admins-iMac-4.local myScriptLog[598] <Warning>: The field [is_employee] is not a valid table field.
+Nov  3 17:07:10 Admins-iMac-4.local myScriptLog[678] <Warning>: The field [is_employee] is not a valid table field.
+Nov  3 17:25:16 Admins-iMac-4.local myScriptLog[605] <Warning>: The field [is_employee] is not a valid table field.
+Nov  3 17:26:41 Admins-iMac-4.local myScriptLog[702] <Warning>: The field [is_employee] is not a valid table field.
+Nov  3 17:37:57 Admins-iMac-4.local myScriptLog[584] <Warning>: The field [is_employee] is not a valid table field.
+Nov  3 17:51:56 Admins-iMac-4.local myScriptLog[605] <Warning>: The field [is_employee] is not a valid table field.
+Nov  3 17:56:50 Admins-iMac-4.local myScriptLog[582] <Warning>: The field [is_employee] is not a valid table field.
+Nov  3 17:57:29 Admins-iMac-4.local myScriptLog[583] <Warning>: The field [is_employee] is not a valid table field.
+[Mon Nov 03 18:30:22 2014] [notice] caught SIGTERM, shutting down
+[Tue Nov 04 21:17:47 2014] [notice] FastCGI: process manager initialized (pid 8531)
+[Tue Nov 04 21:18:08 2014] [notice] Digest: generating secret for digest authentication ...
+[Tue Nov 04 21:18:08 2014] [notice] Digest: done
+[Tue Nov 04 21:18:09 2014] [notice] Apache/2.2.29 (Unix) mod_fastcgi/2.4.6 mod_wsgi/3.4 Python/2.7.8 PHP/5.6.2 mod_ssl/2.2.29 OpenSSL/0.9.8za DAV/2 mod_perl/2.0.8 Perl/v5.20.0 configured -- resuming normal operations
+Nov  4 21:27:31 Admins-iMac-4.local myScriptLog[8700] <Warning>: The field [is_employee] is not a valid table field.
+Nov  4 23:42:41 Admins-iMac-4.local myScriptLog[8723] <Warning>: The field [is_employee] is not a valid table field.
+Nov  4 23:44:22 Admins-iMac-4.local myScriptLog[8699] <Warning>: The field [is_employee] is not a valid table field.
+Nov  4 23:45:07 Admins-iMac-4.local myScriptLog[8721] <Warning>: The field [is_employee] is not a valid table field.
+Nov  4 23:45:20 Admins-iMac-4.local myScriptLog[8702] <Warning>: The field [is_employee] is not a valid table field.
+[Wed Nov 05 01:01:45 2014] [notice] caught SIGTERM, shutting down
+[Wed Nov 05 01:01:52 2014] [notice] FastCGI: process manager initialized (pid 16393)
+[Wed Nov 05 01:01:53 2014] [notice] Digest: generating secret for digest authentication ...
+[Wed Nov 05 01:01:53 2014] [notice] Digest: done
+[Wed Nov 05 01:01:53 2014] [notice] Apache/2.2.29 (Unix) mod_fastcgi/2.4.6 mod_wsgi/3.4 Python/2.7.8 PHP/5.6.2 mod_ssl/2.2.29 OpenSSL/0.9.8za DAV/2 mod_perl/2.0.8 Perl/v5.20.0 configured -- resuming normal operations
+[Wed Nov 05 02:00:22 2014] [notice] caught SIGTERM, shutting down
+[Wed Nov 05 02:00:28 2014] [notice] FastCGI: process manager initialized (pid 18464)
+[Wed Nov 05 02:00:28 2014] [notice] Digest: generating secret for digest authentication ...
+[Wed Nov 05 02:00:28 2014] [notice] Digest: done
+[Wed Nov 05 02:00:28 2014] [notice] Apache/2.2.29 (Unix) mod_fastcgi/2.4.6 mod_wsgi/3.4 Python/2.7.8 PHP/5.6.2 mod_ssl/2.2.29 OpenSSL/0.9.8za DAV/2 mod_perl/2.0.8 Perl/v5.20.0 configured -- resuming normal operations
+[Wed Nov 05 06:49:14 2014] [notice] caught SIGTERM, shutting down
+[Wed Nov 05 14:34:50 2014] [notice] FastCGI: process manager initialized (pid 499)
+[Wed Nov 05 14:34:53 2014] [notice] Digest: generating secret for digest authentication ...
+[Wed Nov 05 14:34:53 2014] [notice] Digest: done
+[Wed Nov 05 14:34:53 2014] [notice] Apache/2.2.29 (Unix) mod_fastcgi/2.4.6 mod_wsgi/3.4 Python/2.7.8 PHP/5.6.2 mod_ssl/2.2.29 OpenSSL/0.9.8za DAV/2 mod_perl/2.0.8 Perl/v5.20.0 configured -- resuming normal operations
+[Wed Nov 05 14:44:07 2014] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/hrportal/img, referer: http://localhost/
+Nov  5 23:59:14 Admins-iMac-4.local myScriptLog[15737] <Warning>: The field [is_employee] is not a valid table field.
+[Thu Nov 06 00:15:03 2014] [notice] caught SIGTERM, shutting down
+[Thu Nov 06 09:49:42 2014] [notice] FastCGI: process manager initialized (pid 870)
+[Thu Nov 06 09:49:42 2014] [notice] Digest: generating secret for digest authentication ...
+[Thu Nov 06 09:49:42 2014] [notice] Digest: done
+[Thu Nov 06 09:49:43 2014] [notice] Apache/2.2.29 (Unix) mod_fastcgi/2.4.6 mod_wsgi/3.4 Python/2.7.8 PHP/5.6.2 mod_ssl/2.2.29 OpenSSL/0.9.8za DAV/2 mod_perl/2.0.8 Perl/v5.20.0 configured -- resuming normal operations
+[Thu Nov 06 10:24:07 2014] [notice] caught SIGTERM, shutting down
+[Fri Nov 07 01:54:08 2014] [notice] FastCGI: process manager initialized (pid 622)
+[Fri Nov 07 01:54:09 2014] [notice] Digest: generating secret for digest authentication ...
+[Fri Nov 07 01:54:09 2014] [notice] Digest: done
+[Fri Nov 07 01:54:10 2014] [notice] Apache/2.2.29 (Unix) mod_fastcgi/2.4.6 mod_wsgi/3.4 Python/2.7.8 PHP/5.6.2 mod_ssl/2.2.29 OpenSSL/0.9.8za DAV/2 mod_perl/2.0.8 Perl/v5.20.0 configured -- resuming normal operations
+[Fri Nov 07 03:53:42 2014] [notice] caught SIGTERM, shutting down
+[Fri Nov 07 03:54:19 2014] [notice] FastCGI: process manager initialized (pid 4312)
+[Fri Nov 07 03:54:19 2014] [notice] Digest: generating secret for digest authentication ...
+[Fri Nov 07 03:54:19 2014] [notice] Digest: done
+[Fri Nov 07 03:54:19 2014] [notice] Apache/2.2.29 (Unix) mod_fastcgi/2.4.6 mod_wsgi/3.4 Python/2.7.8 PHP/5.6.2 mod_ssl/2.2.29 OpenSSL/0.9.8za DAV/2 mod_perl/2.0.8 Perl/v5.20.0 configured -- resuming normal operations
+[Fri Nov 07 07:55:32 2014] [notice] caught SIGTERM, shutting down
+[Fri Nov 07 07:55:41 2014] [notice] FastCGI: process manager initialized (pid 11449)
+[Fri Nov 07 07:55:43 2014] [notice] Digest: generating secret for digest authentication ...
+[Fri Nov 07 07:55:43 2014] [notice] Digest: done
+[Fri Nov 07 07:55:43 2014] [notice] Apache/2.2.29 (Unix) mod_fastcgi/2.4.6 mod_wsgi/3.4 Python/2.7.8 PHP/5.6.2 mod_ssl/2.2.29 OpenSSL/0.9.8za DAV/2 mod_perl/2.0.8 Perl/v5.20.0 configured -- resuming normal operations
+[Fri Nov 07 08:02:57 2014] [error] [client 127.0.0.1] File does not exist: /Applications/MAMP/htdocs/attendance/attendance, referer: http://www.tkstest.local/nwdays.php?show=1&uid=28
+[Fri Nov 07 08:02:57 2014] [error] [client 127.0.0.1] File does not exist: /Applications/MAMP/htdocs/attendance/attendance, referer: http://www.tkstest.local/calendar.html
+[Fri Nov 07 08:02:57 2014] [error] [client 127.0.0.1] File does not exist: /Applications/MAMP/htdocs/attendance/attendance, referer: http://www.tkstest.local/calendar.html
+[Fri Nov 07 08:10:27 2014] [error] [client 127.0.0.1] File does not exist: /Applications/MAMP/htdocs/attendance/attendance, referer: http://www.tkstest.local/nwdays.php?show=1&uid=28
+[Fri Nov 07 08:10:27 2014] [error] [client 127.0.0.1] File does not exist: /Applications/MAMP/htdocs/attendance/attendance, referer: http://www.tkstest.local/calendar.html
+[Fri Nov 07 08:10:27 2014] [error] [client 127.0.0.1] File does not exist: /Applications/MAMP/htdocs/attendance/attendance, referer: http://www.tkstest.local/calendar.html
+[Fri Nov 07 08:12:08 2014] [error] [client 127.0.0.1] File does not exist: /Applications/MAMP/htdocs/attendance/attendance, referer: http://www.tkstest.local/nwdays.php?show=1&uid=28
+[Fri Nov 07 08:12:08 2014] [error] [client 127.0.0.1] File does not exist: /Applications/MAMP/htdocs/attendance/attendance, referer: http://www.tkstest.local/calendar.html
+[Fri Nov 07 08:12:08 2014] [error] [client 127.0.0.1] File does not exist: /Applications/MAMP/htdocs/attendance/attendance, referer: http://www.tkstest.local/calendar.html
+[Fri Nov 07 08:12:51 2014] [error] [client 127.0.0.1] File does not exist: /Applications/MAMP/htdocs/attendance/attendance, referer: http://www.tkstest.local/calendar.html
+[Fri Nov 07 08:12:51 2014] [error] [client 127.0.0.1] File does not exist: /Applications/MAMP/htdocs/attendance/attendance, referer: http://www.tkstest.local/calendar.html
+[Fri Nov 07 08:12:51 2014] [error] [client 127.0.0.1] File does not exist: /Applications/MAMP/htdocs/attendance/attendance, referer: http://www.tkstest.local/nwdays.php?show=1&uid=28
+[Fri Nov 07 10:53:30 2014] [notice] caught SIGTERM, shutting down
+[Sun Nov 09 22:25:33 2014] [notice] FastCGI: process manager initialized (pid 669)
+[Sun Nov 09 22:25:35 2014] [notice] Digest: generating secret for digest authentication ...
+[Sun Nov 09 22:25:35 2014] [notice] Digest: done
+[Sun Nov 09 22:25:35 2014] [notice] Apache/2.2.29 (Unix) mod_fastcgi/2.4.6 mod_wsgi/3.4 Python/2.7.8 PHP/5.6.2 mod_ssl/2.2.29 OpenSSL/0.9.8za DAV/2 mod_perl/2.0.8 Perl/v5.20.0 configured -- resuming normal operations
+[Mon Nov 10 02:52:03 2014] [notice] caught SIGTERM, shutting down
+[Mon Nov 10 02:52:17 2014] [notice] FastCGI: process manager initialized (pid 8141)
+[Mon Nov 10 02:52:18 2014] [notice] Digest: generating secret for digest authentication ...
+[Mon Nov 10 02:52:18 2014] [notice] Digest: done
+[Mon Nov 10 02:52:18 2014] [notice] Apache/2.2.29 (Unix) mod_fastcgi/2.4.6 mod_wsgi/3.4 Python/2.7.8 PHP/5.6.2 mod_ssl/2.2.29 OpenSSL/0.9.8za DAV/2 mod_perl/2.0.8 Perl/v5.20.0 configured -- resuming normal operations
+[Mon Nov 10 02:54:02 2014] [error] [client ::1] script '/Applications/MAMP/bin/phpMyAdmin/main.php' not found or unable to stat, referer: http://localhost/phpMyAdmin/
+[Mon Nov 10 03:14:43 2014] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/tks/tks
+[Mon Nov 10 04:03:18 2014] [error] [client ::1] script '/Applications/MAMP/bin/phpMyAdmin/main.php' not found or unable to stat, referer: http://localhost/phpMyAdmin/
+[Mon Nov 10 04:06:03 2014] [error] [client 127.0.0.1] File does not exist: /Applications/MAMP/htdocs/tks/img/favicon.png, referer: http://www.tkstest.local/
+[Mon Nov 10 04:08:00 2014] [error] [client 127.0.0.1] File does not exist: /Applications/MAMP/htdocs/tks/tks
+[Mon Nov 10 04:08:52 2014] [error] [client 127.0.0.1] File does not exist: /Applications/MAMP/htdocs/tks/tks
+[Mon Nov 10 04:08:58 2014] [error] [client 127.0.0.1] File does not exist: /Applications/MAMP/htdocs/tks/login
+[Mon Nov 10 04:09:01 2014] [error] [client 127.0.0.1] script '/Applications/MAMP/htdocs/tks/login.php' not found or unable to stat
+[Mon Nov 10 04:12:40 2014] [error] [client 127.0.0.1] File does not exist: /Applications/MAMP/htdocs/tks/tks
+[Mon Nov 10 04:12:46 2014] [error] [client 127.0.0.1] File does not exist: /Applications/MAMP/htdocs/tks/tks
+[Mon Nov 10 04:12:47 2014] [error] [client 127.0.0.1] File does not exist: /Applications/MAMP/htdocs/tks/tks
+[Mon Nov 10 04:12:50 2014] [error] [client 127.0.0.1] File does not exist: /Applications/MAMP/htdocs/tks/tks
+[Mon Nov 10 04:12:50 2014] [error] [client 127.0.0.1] File does not exist: /Applications/MAMP/htdocs/tks/tks
+[Mon Nov 10 04:34:11 2014] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/tks/docs-assets, referer: http://localhost/MAMP/?language=English
+[Mon Nov 10 04:34:11 2014] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/tks/docs-assets, referer: http://localhost/MAMP/?language=English
+[Mon Nov 10 04:43:21 2014] [notice] caught SIGTERM, shutting down
+[Tue Nov 11 01:11:51 2014] [notice] FastCGI: process manager initialized (pid 30595)
+[Tue Nov 11 01:11:53 2014] [notice] Digest: generating secret for digest authentication ...
+[Tue Nov 11 01:11:53 2014] [notice] Digest: done
+[Tue Nov 11 01:11:53 2014] [notice] Apache/2.2.29 (Unix) mod_fastcgi/2.4.6 mod_wsgi/3.4 Python/2.7.8 PHP/5.6.2 mod_ssl/2.2.29 OpenSSL/0.9.8za DAV/2 mod_perl/2.0.8 Perl/v5.20.0 configured -- resuming normal operations
+Nov 11 01:13:33 Admins-iMac-4.local myScriptLog[30619] <Warning>: The field [is_employee] is not a valid table field.
+Nov 11 01:15:09 Admins-iMac-4.local myScriptLog[30620] <Warning>: The field [is_employee] is not a valid table field.
+Nov 11 01:15:12 Admins-iMac-4.local myScriptLog[30620] <Warning>: The field [is_employee] is not a valid table field.
+Nov 11 01:15:24 Admins-iMac-4.local myScriptLog[30620] <Warning>: The field [is_employee] is not a valid table field.
+Nov 11 01:16:37 Admins-iMac-4.local myScriptLog[30640] <Warning>: The field [is_employee] is not a valid table field.
+Nov 11 01:16:39 Admins-iMac-4.local myScriptLog[30640] <Warning>: The field [is_employee] is not a valid table field.
+Nov 11 01:16:47 Admins-iMac-4.local myScriptLog[30640] <Warning>: The field [is_employee] is not a valid table field.
+Nov 11 01:17:12 Admins-iMac-4.local myScriptLog[30618] <Warning>: The field [is_employee] is not a valid table field.
+Nov 11 01:17:29 Admins-iMac-4.local myScriptLog[30619] <Warning>: The field [is_employee] is not a valid table field.
+Nov 11 01:17:44 Admins-iMac-4.local myScriptLog[30641] <Warning>: The field [is_employee] is not a valid table field.
+Nov 11 01:18:12 Admins-iMac-4.local myScriptLog[30636] <Warning>: The field [is_employee] is not a valid table field.
+Nov 11 01:18:34 Admins-iMac-4.local myScriptLog[30620] <Warning>: The field [is_employee] is not a valid table field.
+Nov 11 01:18:42 Admins-iMac-4.local myScriptLog[30620] <Warning>: The field [is_employee] is not a valid table field.
+Nov 11 01:18:44 Admins-iMac-4.local myScriptLog[30620] <Warning>: The field [is_employee] is not a valid table field.
+Nov 11 01:19:14 Admins-iMac-4.local myScriptLog[30640] <Warning>: The field [is_employee] is not a valid table field.
+Nov 11 01:19:37 Admins-iMac-4.local myScriptLog[30616] <Warning>: The field [is_employee] is not a valid table field.
+[Tue Nov 11 01:27:44 2014] [notice] caught SIGTERM, shutting down
+[Tue Nov 11 01:35:07 2014] [notice] FastCGI: process manager initialized (pid 32775)
+[Tue Nov 11 01:35:08 2014] [notice] Digest: generating secret for digest authentication ...
+[Tue Nov 11 01:35:08 2014] [notice] Digest: done
+[Tue Nov 11 01:35:08 2014] [notice] Apache/2.2.29 (Unix) mod_fastcgi/2.4.6 mod_wsgi/3.4 Python/2.7.8 PHP/5.6.2 mod_ssl/2.2.29 OpenSSL/0.9.8za DAV/2 mod_perl/2.0.8 Perl/v5.20.0 configured -- resuming normal operations
+Nov 11 01:43:20 Admins-iMac-4.local myScriptLog[33093] <Warning>: The field [is_employee] is not a valid table field.
+Nov 11 01:43:28 Admins-iMac-4.local myScriptLog[33095] <Warning>: The field [is_employee] is not a valid table field.
+Nov 11 01:43:32 Admins-iMac-4.local myScriptLog[33095] <Warning>: The field [is_employee] is not a valid table field.
+Nov 11 01:43:44 Admins-iMac-4.local myScriptLog[33094] <Warning>: The field [is_employee] is not a valid table field.
+Nov 11 01:44:10 Admins-iMac-4.local myScriptLog[32928] <Warning>: The field [is_employee] is not a valid table field.
+Nov 11 01:44:12 Admins-iMac-4.local myScriptLog[32928] <Warning>: The field [is_employee] is not a valid table field.
+Nov 11 01:44:29 Admins-iMac-4.local myScriptLog[32788] <Warning>: The field [is_employee] is not a valid table field.
+Nov 11 01:44:31 Admins-iMac-4.local myScriptLog[32788] <Warning>: The field [is_employee] is not a valid table field.
+Nov 11 01:45:39 Admins-iMac-4.local myScriptLog[33094] <Warning>: The field [is_employee] is not a valid table field.
+Nov 11 01:45:46 Admins-iMac-4.local myScriptLog[33094] <Warning>: The field [is_employee] is not a valid table field.
+Nov 11 01:45:56 Admins-iMac-4.local myScriptLog[32786] <Warning>: The field [is_employee] is not a valid table field.
+Nov 11 01:46:38 Admins-iMac-4.local myScriptLog[32787] <Warning>: The field [is_employee] is not a valid table field.
+Nov 11 01:47:39 Admins-iMac-4.local myScriptLog[32785] <Warning>: The field [is_employee] is not a valid table field.
+Nov 11 01:47:44 Admins-iMac-4.local myScriptLog[32785] <Warning>: The field [is_employee] is not a valid table field.
+Nov 11 01:48:49 Admins-iMac-4.local myScriptLog[32788] <Warning>: The field [is_employee] is not a valid table field.
+Nov 11 01:49:05 Admins-iMac-4.local myScriptLog[33093] <Warning>: The field [is_employee] is not a valid table field.
+Nov 11 01:49:11 Admins-iMac-4.local myScriptLog[33093] <Warning>: The field [is_employee] is not a valid table field.
+Nov 11 01:49:29 Admins-iMac-4.local myScriptLog[32930] <Warning>: The field [is_employee] is not a valid table field.
+Nov 11 01:49:51 Admins-iMac-4.local myScriptLog[33094] <Warning>: The field [is_employee] is not a valid table field.
+Nov 11 01:50:28 Admins-iMac-4.local myScriptLog[32786] <Warning>: The field [is_employee] is not a valid table field.
+Nov 11 01:50:56 Admins-iMac-4.local myScriptLog[32787] <Warning>: The field [is_employee] is not a valid table field.
+Nov 11 01:51:12 Admins-iMac-4.local myScriptLog[32785] <Warning>: The field [is_employee] is not a valid table field.
+Nov 11 01:51:13 Admins-iMac-4.local myScriptLog[32785] <Warning>: The field [is_employee] is not a valid table field.
+Nov 11 01:51:20 Admins-iMac-4.local myScriptLog[32785] <Warning>: The field [is_employee] is not a valid table field.
+Nov 11 01:51:25 Admins-iMac-4.local myScriptLog[32928] <Warning>: The field [is_employee] is not a valid table field.
+Nov 11 01:51:27 Admins-iMac-4.local myScriptLog[32928] <Warning>: The field [is_employee] is not a valid table field.
+Nov 11 01:52:14 Admins-iMac-4.local myScriptLog[32788] <Warning>: The field [is_employee] is not a valid table field.
+[Tue Nov 11 02:03:12 2014] [notice] caught SIGTERM, shutting down
+[Tue Nov 11 03:34:53 2014] [notice] FastCGI: process manager initialized (pid 39995)
+[Tue Nov 11 03:34:54 2014] [notice] Digest: generating secret for digest authentication ...
+[Tue Nov 11 03:34:54 2014] [notice] Digest: done
+[Tue Nov 11 03:34:54 2014] [notice] Apache/2.2.29 (Unix) mod_fastcgi/2.4.6 mod_wsgi/3.4 Python/2.7.8 PHP/5.6.2 mod_ssl/2.2.29 OpenSSL/0.9.8za DAV/2 mod_perl/2.0.8 Perl/v5.20.0 configured -- resuming normal operations
+Nov 11 03:46:56 Admins-iMac-4.local myScriptLog[40058] <Warning>: The field [is_employee] is not a valid table field.
+Nov 11 03:47:56 Admins-iMac-4.local myScriptLog[40007] <Warning>: The field [is_employee] is not a valid table field.
+Nov 11 03:48:29 Admins-iMac-4.local myScriptLog[40860] <Warning>: The field [is_employee] is not a valid table field.
+Nov 11 03:48:37 Admins-iMac-4.local myScriptLog[40862] <Warning>: The field [is_employee] is not a valid table field.
+Nov 11 03:48:42 Admins-iMac-4.local myScriptLog[40861] <Warning>: The field [is_employee] is not a valid table field.
+Nov 11 03:48:43 Admins-iMac-4.local myScriptLog[40861] <Warning>: The field [is_employee] is not a valid table field.
+Nov 11 03:53:25 Admins-iMac-4.local myScriptLog[40006] <Warning>: The field [is_employee] is not a valid table field.
+Nov 11 03:54:32 Admins-iMac-4.local myScriptLog[40004] <Warning>: The field [is_employee] is not a valid table field.
+Nov 11 03:54:35 Admins-iMac-4.local myScriptLog[40004] <Warning>: The field [is_employee] is not a valid table field.
+Nov 11 03:54:36 Admins-iMac-4.local myScriptLog[40004] <Warning>: The field [is_employee] is not a valid table field.
+[Tue Nov 11 04:31:16 2014] [notice] caught SIGTERM, shutting down
+[Wed Nov 12 00:14:56 2014] [notice] FastCGI: process manager initialized (pid 6466)
+[Wed Nov 12 00:14:58 2014] [notice] Digest: generating secret for digest authentication ...
+[Wed Nov 12 00:14:58 2014] [notice] Digest: done
+[Wed Nov 12 00:14:58 2014] [notice] Apache/2.2.29 (Unix) mod_fastcgi/2.4.6 mod_wsgi/3.4 Python/2.7.8 PHP/5.6.2 mod_ssl/2.2.29 OpenSSL/0.9.8za DAV/2 mod_perl/2.0.8 Perl/v5.20.0 configured -- resuming normal operations
+Nov 12 00:15:44 Admins-iMac-4.local myScriptLog[6488] <Warning>: The field [is_employee] is not a valid table field.
+Nov 12 00:16:31 Admins-iMac-4.local myScriptLog[6509] <Warning>: The field [is_employee] is not a valid table field.
+Nov 12 00:18:28 Admins-iMac-4.local myScriptLog[6680] <Warning>: The field [is_employee] is not a valid table field.
+Nov 12 00:18:37 Admins-iMac-4.local myScriptLog[6679] <Warning>: The field [is_employee] is not a valid table field.
+Nov 12 00:18:40 Admins-iMac-4.local myScriptLog[6679] <Warning>: The field [is_employee] is not a valid table field.
+Nov 12 00:23:41 Admins-iMac-4.local myScriptLog[6503] <Warning>: The field [is_employee] is not a valid table field.
+Nov 12 00:23:51 Admins-iMac-4.local myScriptLog[6487] <Warning>: The field [is_employee] is not a valid table field.
+Nov 12 00:23:55 Admins-iMac-4.local myScriptLog[6487] <Warning>: The field [is_employee] is not a valid table field.
+Nov 12 00:24:10 Admins-iMac-4.local myScriptLog[6488] <Warning>: The field [is_employee] is not a valid table field.
+Nov 12 00:25:05 Admins-iMac-4.local myScriptLog[6507] <Warning>: The field [is_employee] is not a valid table field.
+Nov 12 00:25:09 Admins-iMac-4.local myScriptLog[6510] <Warning>: The field [is_employee] is not a valid table field.
+Nov 12 00:25:10 Admins-iMac-4.local myScriptLog[6510] <Warning>: The field [is_employee] is not a valid table field.
+[Wed Nov 12 00:26:35 2014] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/tks
+Nov 12 00:27:33 Admins-iMac-4.local myScriptLog[6486] <Warning>: The field [is_employee] is not a valid table field.
+Nov 12 00:37:39 Admins-iMac-4.local myScriptLog[6487] <Warning>: The field [is_employee] is not a valid table field.
+Nov 12 00:38:04 Admins-iMac-4.local myScriptLog[6503] <Warning>: The field [is_employee] is not a valid table field.
+Nov 12 00:38:22 Admins-iMac-4.local myScriptLog[6507] <Warning>: The field [is_employee] is not a valid table field.
+Nov 12 00:48:14 Admins-iMac-4.local myScriptLog[6487] <Warning>: The field [is_employee] is not a valid table field.
+Nov 12 00:48:38 Admins-iMac-4.local myScriptLog[6503] <Warning>: The field [is_employee] is not a valid table field.
+Nov 12 00:50:04 Admins-iMac-4.local myScriptLog[6679] <Warning>: The field [is_employee] is not a valid table field.
+Nov 12 01:12:12 Admins-iMac-4.local myScriptLog[7351] <Warning>: The field [is_employee] is not a valid table field.
+Nov 12 01:13:05 Admins-iMac-4.local myScriptLog[6490] <Warning>: The field [is_employee] is not a valid table field.
+Nov 12 01:17:28 Admins-iMac-4.local myScriptLog[6488] <Warning>: The field [is_employee] is not a valid table field.
+Nov 12 01:18:06 Admins-iMac-4.local myScriptLog[6503] <Warning>: The field [is_employee] is not a valid table field.
+Nov 12 01:18:11 Admins-iMac-4.local myScriptLog[6679] <Warning>: The field [is_employee] is not a valid table field.
+Nov 12 01:18:17 Admins-iMac-4.local myScriptLog[6486] <Warning>: The field [is_employee] is not a valid table field.
+Nov 12 01:18:31 Admins-iMac-4.local myScriptLog[6680] <Warning>: The field [is_employee] is not a valid table field.
+Nov 12 01:19:33 Admins-iMac-4.local myScriptLog[6509] <Warning>: The field [is_employee] is not a valid table field.
+Nov 12 01:24:14 Admins-iMac-4.local myScriptLog[6679] <Warning>: The field [is_employee] is not a valid table field.
+[Wed Nov 12 03:24:05 2014] [notice] caught SIGTERM, shutting down
+[Wed Nov 12 06:49:51 2014] [notice] FastCGI: process manager initialized (pid 31731)
+[Wed Nov 12 06:49:52 2014] [notice] Digest: generating secret for digest authentication ...
+[Wed Nov 12 06:49:52 2014] [notice] Digest: done
+[Wed Nov 12 06:49:52 2014] [notice] Apache/2.2.29 (Unix) mod_fastcgi/2.4.6 mod_wsgi/3.4 Python/2.7.8 PHP/5.6.2 mod_ssl/2.2.29 OpenSSL/0.9.8za DAV/2 mod_perl/2.0.8 Perl/v5.20.0 configured -- resuming normal operations
+Nov 12 06:50:17 Admins-iMac-4.local myScriptLog[31767] <Warning>: The field [is_employee] is not a valid table field.
+Nov 12 06:51:23 Admins-iMac-4.local myScriptLog[31770] <Warning>: The field [is_employee] is not a valid table field.
+Nov 12 06:51:25 Admins-iMac-4.local myScriptLog[31770] <Warning>: The field [is_employee] is not a valid table field.
+Nov 12 06:51:34 Admins-iMac-4.local myScriptLog[31741] <Warning>: The field [is_employee] is not a valid table field.
+Nov 12 06:54:20 Admins-iMac-4.local myScriptLog[31743] <Warning>: The field [is_employee] is not a valid table field.
+Nov 12 06:55:37 Admins-iMac-4.local myScriptLog[31766] <Warning>: The field [is_employee] is not a valid table field.
+Nov 12 06:55:41 Admins-iMac-4.local myScriptLog[31766] <Warning>: The field [is_employee] is not a valid table field.
+Nov 12 06:56:52 Admins-iMac-4.local myScriptLog[31771] <Warning>: The field [is_employee] is not a valid table field.
+[Wed Nov 12 07:04:16 2014] [notice] caught SIGTERM, shutting down
+[Wed Nov 12 22:42:12 2014] [notice] FastCGI: process manager initialized (pid 1323)
+[Wed Nov 12 22:42:13 2014] [notice] Digest: generating secret for digest authentication ...
+[Wed Nov 12 22:42:13 2014] [notice] Digest: done
+[Wed Nov 12 22:42:14 2014] [notice] Apache/2.2.29 (Unix) mod_fastcgi/2.4.6 mod_wsgi/3.4 Python/2.7.8 PHP/5.6.2 mod_ssl/2.2.29 OpenSSL/0.9.8za DAV/2 mod_perl/2.0.8 Perl/v5.20.0 configured -- resuming normal operations
+[Wed Nov 12 22:43:25 2014] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/tks
+[Wed Nov 12 22:44:10 2014] [notice] caught SIGTERM, shutting down
